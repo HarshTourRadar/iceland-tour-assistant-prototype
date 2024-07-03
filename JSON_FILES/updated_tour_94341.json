@@ -1,0 +1,296 @@
+{
+  "codes": [
+    "6924"
+  ],
+  "budget": "comfort",
+  "images": [
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/94341_c856927d.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/94341_c856927d.jpg",
+      "location_name": "Svalbard"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/94341_cf2a6757.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/94341_cf2a6757.jpg",
+      "location_name": "Lofoten Islands, Norway"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/94341_6224361c.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/94341_6224361c.jpg",
+      "location_name": "Svalbard"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/94341_0bb5fcd3.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/94341_0bb5fcd3.jpg",
+      "location_name": "H\u00f3lar in Hjaltadalur, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/94341_9ab62ba5.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/94341_9ab62ba5.jpg",
+      "location_name": "This location is Greenland."
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/94341_6c88af84.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/94341_6c88af84.jpg",
+      "location_name": "Dore Holm"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/94341_8f5cc274.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/94341_8f5cc274.jpg",
+      "location_name": "Yasawa Islands"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/map/1500x800/94341_c856.png",
+      "type": "map",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/map/200x200/94341_c856.png",
+      "location_name": "\u00cdsafj\u00f6r\u00f0ur"
+    }
+  ],
+  "locale": "en_US",
+  "ratings": {
+    "operator": 4.5
+  },
+  "tour_id": 94341,
+  "end_city": {
+    "latitude": 66.073757,
+    "city_name": "Isafjordur",
+    "longitude": -23.141885,
+    "location_id": 14572,
+    "country_code": "IS"
+  },
+  "language": "en",
+  "operator": {
+    "id": 2499,
+    "name": "Borea Adventures"
+  },
+  "services": {
+    "guide": [
+      {
+        "description": "<p>Professional guide</p>",
+        "is_included": true
+      }
+    ],
+    "meals": [
+      {
+        "description": "<ul><li>All food</li></ul>",
+        "is_included": true
+      }
+    ],
+    "others": [
+      {
+        "description": "<p>Kayaking gear (kayak, paddle, neoprene pants, dry top, spray skirt, life vest, paddling boots, paddling gloves and additional dry bags)</p>",
+        "is_included": true
+      },
+      {
+        "description": "<p>Travel to and from \u00cdsafj\u00f6r\u00f0ur prior to and after the trip</p><p>Food on the first day until the trip departs</p><p>Personal medical insurance</p><p>Personal equipment and clothing</p>",
+        "is_included": false
+      }
+    ],
+    "flights": [
+      {
+        "description": "<p>International flights are not included</p>",
+        "is_included": false
+      }
+    ],
+    "optional": [
+      {
+        "description": "<p>Other activities and services are not included</p>",
+        "is_included": false
+      }
+    ],
+    "insurance": [
+      {
+        "description": "<p>Travel insurance is not included</p>",
+        "is_included": false
+      }
+    ],
+    "transport": [
+      {
+        "description": "<p>Ferry and car transfer on the first and last day</p>",
+        "is_included": true
+      }
+    ],
+    "accommodation": [
+      {
+        "description": "<p>Tents</p>",
+        "is_included": true,
+        "accommodations": [
+          {
+            "type": "camping"
+          }
+        ]
+      }
+    ]
+  },
+  "age_range": {
+    "strict": {
+      "max_age": 80,
+      "min_age": 16
+    }
+  },
+  "end_point": {},
+  "is_active": true,
+  "itinerary": [
+    {
+      "order": 0,
+      "title": "Day 1: Kv&iacute;ar",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 66.073757,
+          "city_name": "Isafjordur",
+          "longitude": -23.141885,
+          "location_id": 14572,
+          "country_code": "IS"
+        }
+      ],
+      "description": "Meet up at our caf&eacute; Br&aelig;&eth;raborg around 08:00 in the morning for preparations and briefing. You leave the harbour in &Iacute;safj&ouml;r&eth;ur on our passenger ferry Bjarnarnes at 9:00 AM. The destination is our farmhouse in Kv&iacute;ar that stands on the shore between the fjords of Vei&eth;leysufj&ouml;r&eth;ur and L&oacute;nafj&ouml;r&eth;ur. There you will meet your giude and join the group that is doing the whole six days trip. Boats and other gear that we provide, will probably already be there or you will take it with you on the passenger boat.</p><p>We pack our boats and start paddling. Our first task is to paddle across the bay to the South side near H&ouml;f&eth;i to get a good look at Leirufj&ouml;r&eth;ur Fjord with Drangj&ouml;kull Glacier in the distance. Leirufj&ouml;r&eth;ur (e. Silt Fjord). The name of the fjord explains itself when we see the clay and silt coming from the glacier river of Drangaj&ouml;kull Glacier. We then head along the shoreline towards Grunnav&iacute;k Bay. En-route is a nice rock arch that we can pass under on high tide. There is also a good chance to spot porpoises close to the coast, especially if the sea is calm. In Grunnav&iacute;k there are a few summerhouses and a nice church that we can take a look at. Camp on the beach.</p><p>Distance: 20 km."
+    },
+    {
+      "order": 1,
+      "title": "Day 2: Iacute;safjar&eth;ardj&uacute;p",
+      "duration": 1,
+      "description": "Today we head out of the J&ouml;kulfir&eth;ir fjord system and into the big bay of &Iacute;safjar&eth;ardj&uacute;p. We pass many beautiful waterfalls on the way that people rarely experience since they are so unaccessible by foot. We continue along the coast of Sn&aelig;fjallastr&ouml;nd and camp either in the beautiful cove in Ytraskar&eth; (20 km) or by the breathtaking M&ouml;ngufoss waterfall (24 km), all depending on conditions. Campfire on the beach to watch the beautiful sunset."
+    },
+    {
+      "order": 2,
+      "title": "Day 3: AElig;&eth;ey",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 66.055401,
+          "city_name": "Vigur",
+          "longitude": -22.828909,
+          "location_id": 27653,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 66.073757,
+          "city_name": "Isafjordur",
+          "longitude": -23.141885,
+          "location_id": 14572,
+          "country_code": "IS"
+        }
+      ],
+      "description": "Our first stop on the last full day of kayaking is the island of &AElig;&eth;ey. The island is inhabited by one family during the summer months and is a nice place to stop, relax and enjoy life on the island while ashore. The waters around the island is covered with puffins and other sea birds. Literally! After visiting the island, we do a long crossing (9 km) to the island of Vigur. The birdlife on the island is quite amazing and the farmers have raised special rock walls for the eider ducks to nest. Puffins are found all over the island. The beautiful and colorful houses are very picturesque and the small coffee house is a great place to stop by and relax. After about two hours on the island, we get going again for the last leg of the trip. Depending on weather, we&#39;ll paddle about 6 km to Hvitanes or to the village of S&uacute;&eth;av&iacute;k if conditions are good, where a car will pick us up. Drive back to &Iacute;safj&ouml;r&eth;ur. We&#39;ll arrive in &Iacute;safj&ouml;r&eth;ur in time for the afternoon flight for those flying back to Reykjav&iacute;k. We urge you to stay at least one night in &Iacute;safj&ouml;r&eth;ur and get to know this old and beautiful town. There are many interesting sites and nice walks in the mountains around the fjord that are definitely worth it.</p><p>Distance: 20-22 km.</p><p>This description gives only a brief overview and might be changed by the guide, depending on weather and other conditions."
+    }
+  ],
+  "tour_name": "Coastal Kayaking Adventure",
+  "start_city": {
+    "latitude": 66.073757,
+    "city_name": "Isafjordur",
+    "longitude": -23.141885,
+    "location_id": 14572,
+    "country_code": "IS"
+  },
+  "tour_types": [
+    {
+      "type_id": 60,
+      "group_id": 12,
+      "type_name": "Kayak & Canoe",
+      "group_name": "Adventure Activities"
+    },
+    {
+      "type_id": 372,
+      "group_id": 1,
+      "type_name": "Group",
+      "group_name": "Group Type"
+    },
+    {
+      "type_id": 374,
+      "group_id": 2,
+      "type_name": "Partially Guided",
+      "group_name": "Guide Type"
+    },
+    {
+      "type_id": 379,
+      "group_id": 3,
+      "type_name": "Serious",
+      "group_name": "Physical rating type"
+    },
+    {
+      "type_id": 383,
+      "group_id": 11,
+      "type_name": "Explorer",
+      "group_name": "Adventure Styles"
+    }
+  ],
+  "description": "This expedition really is a journey into the wilds of Iceland",
+  "start_point": {},
+  "destinations": {
+    "cities": [
+      {
+        "latitude": 66.073757,
+        "city_name": "Isafjordur",
+        "longitude": -23.141885,
+        "location_id": 14572,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 66.055401,
+        "city_name": "Vigur",
+        "longitude": -22.828909,
+        "location_id": 27653,
+        "country_code": "IS"
+      }
+    ],
+    "countries": [
+      {
+        "location_id": 77,
+        "country_code": "IS",
+        "country_name": "Iceland",
+        "currency_code": "ISK",
+        "currency_name": "Iceland Krona",
+        "electricity_outlets": [
+          "C",
+          "E",
+          "F"
+        ]
+      }
+    ],
+    "natural_destinations": [
+      {
+        "type": "region",
+        "latitude": 65.08212462827414,
+        "longitude": -22.702715861247793,
+        "location_id": 1000065,
+        "country_code": "IS",
+        "natural_destination_name": "West Iceland"
+      },
+      {
+        "type": "region",
+        "latitude": 65.84803595494279,
+        "longitude": -22.704085824713008,
+        "location_id": 1000066,
+        "country_code": "IS",
+        "natural_destination_name": "Iceland Westfjords "
+      }
+    ]
+  },
+  "reviews_count": 0,
+  "guide_languages": [
+    1
+  ],
+  "departure_months": [
+    {
+      "year": 2024,
+      "month": 7
+    },
+    {
+      "year": 2024,
+      "month": 8
+    }
+  ],
+  "tour_length_days": 3,
+  "is_instant_confirmable": false,
+  "has_machine_translated_content": false,
+  "reviews": [],
+  "tour_url": "https://www.tourradar.com/t/94341"
+}

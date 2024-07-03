@@ -1,0 +1,416 @@
+{
+  "codes": [
+    "BQMJ"
+  ],
+  "budget": "comfort",
+  "images": [
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/67896_f0427f8a.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/67896_f0427f8a.jpg",
+      "location_name": "Kirkjufell"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/67896_ae1f7de6.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/67896_ae1f7de6.jpg",
+      "location_name": "Lofoten Islands, Norway"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/67896_231b423c.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/67896_231b423c.jpg",
+      "location_name": "Sk\u00f3gafoss, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/67896_6f5dcf00.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/67896_6f5dcf00.jpg",
+      "location_name": "Fja\u00f0r\u00e1rglj\u00fafur Canyon"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/67896_428153a0.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/67896_428153a0.jpg",
+      "location_name": "Svalbard"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/67896_0bfc47e8.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/67896_0bfc47e8.jpg",
+      "location_name": "Greenland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/67896_900197.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/67896_900197.jpg",
+      "location_name": "Longyearbyen"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/67896_4661dd33.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/67896_4661dd33.jpg",
+      "location_name": "Arctic"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/map/1500x800/67896_b1a3.png",
+      "type": "map",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/map/200x200/67896_b1a3.png",
+      "location_name": "Iceland"
+    }
+  ],
+  "locale": "en_US",
+  "ratings": {
+    "operator": 4.6
+  },
+  "tour_id": 67896,
+  "end_city": {
+    "latitude": 64.135796,
+    "city_name": "Reykjavik",
+    "longitude": -21.896657,
+    "location_id": 6079,
+    "country_code": "IS"
+  },
+  "language": "en",
+  "operator": {
+    "id": 204,
+    "name": "Intrepid Travel"
+  },
+  "services": {
+    "guide": [
+      {
+        "description": "<p>Your voyage will be led by an experienced Expedition Leader.  In addition, a number of experts will be on board to add knowledge of their field to your experience.  This will include a Marine Biologist, Ornithologist, Glaciologist or Geologist, Polar Historian, Kayaking guide and Naturalist guides.  Voyages offering other adventure activities will have additional specialist guides on board.</p>",
+        "is_included": true
+      }
+    ],
+    "meals": [
+      {
+        "description": "14 breakfasts, 12 lunches, 13 dinners",
+        "is_included": true,
+        "food_options": [
+          "vegetarian",
+          "vegan",
+          "halal",
+          "kosher",
+          "meat"
+        ]
+      }
+    ],
+    "others": [
+      {
+        "description": "<p>Other activities and services not included</p>",
+        "is_included": false
+      }
+    ],
+    "flights": [
+      {
+        "description": "<p>International flights not included.</p>",
+        "is_included": false
+      }
+    ],
+    "optional": [
+      {
+        "description": "<p>Other activities and services not included</p>",
+        "is_included": false
+      }
+    ],
+    "insurance": [
+      {
+        "description": "Insurance is not included. Travel insurance is required for this tour. Please make sure you are adequately covered. If you require travel insurance, TourRadar has partnered up with World Nomads to provide a hassle-free experience. More information can be found here (https://www.tourradar.com/travel-insurance).",
+        "is_included": false
+      }
+    ],
+    "transport": [
+      {
+        "description": "<p>Ship , Zodiac , Plane</p>",
+        "is_included": true
+      }
+    ],
+    "accommodation": [
+      {
+        "description": "<p>Hotel (1 night) Expedition Cruise ship (13 nights)</p>",
+        "is_included": true,
+        "accommodations": [
+          {
+            "type": "hotel",
+            "nights": 1
+          }
+        ]
+      }
+    ]
+  },
+  "age_range": {
+    "strict": {
+      "max_age": 99,
+      "min_age": 8
+    },
+    "recommended": {
+      "max_age": 70,
+      "min_age": 18
+    }
+  },
+  "end_point": {},
+  "is_active": true,
+  "itinerary": [
+    {
+      "order": 1,
+      "title": "Day 1: Helsinki, Finland",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 60.166109,
+          "city_name": "Helsinki",
+          "longitude": 24.941368,
+          "location_id": 5746,
+          "country_code": "FI"
+        }
+      ],
+      "description": "Your arctic adventure begins in Helsinki, where you may arrive at any time today. Known for its extraordinary architecture, Helsinki is a great place to spend time in, exploring the many museums, galleries and restaurants. Perhaps relax at a Finnish sauna or wander the vibrant Design District before retiring at your included hotel."
+    },
+    {
+      "order": 2,
+      "title": "Day 2: Helsinki, Finland \u2013 Longyearbyen, Norway \u2013 Embarkation Day",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 60.166109,
+          "city_name": "Helsinki",
+          "longitude": 24.941368,
+          "location_id": 5746,
+          "country_code": "FI"
+        },
+        {
+          "latitude": 78.220187,
+          "city_name": "Longyearbyen",
+          "longitude": 15.645811,
+          "location_id": 1168,
+          "country_code": "SJ"
+        }
+      ],
+      "description": "After breakfast, the group will transfer to the airport and board our private charter flight to Longyearbyen, Spitsbergen\u2019s largest settlement. As you embark this afternoon, you\u2019ll enjoy great views of the mountainous landscape that serves as a backdrop for this seaside town."
+    },
+    {
+      "order": 3,
+      "title": "Day 3-6: Exploring Spitsbergen",
+      "duration": 4,
+      "locations": [
+        {
+          "latitude": 78.605614,
+          "city_name": "Spitsbergen",
+          "longitude": 15.884857,
+          "location_id": 16975,
+          "country_code": "NO"
+        }
+      ],
+      "description": "Exploring Spitsbergen, the largest of the Norwegian-ruled Svalbard islands, rewards you with abundant wildlife and austere beauty. Here, you\u2019ll visit spectacular glacier fronts and steep-walled fjords with walrus, polar bears and Spitsbergen reindeer among your possible wildlife sightings. Birders will be thrilled to see arctic terns, skuas, long-tailed ducks, kittiwakes and ivory gulls. When conditions are right, you could sail within 10 degrees of the North Pole!"
+    },
+    {
+      "order": 4,
+      "title": "Day 7-8: Greenland Sea",
+      "duration": 2,
+      "description": "While sailing south through the historic Greenland Sea, you\u2019ll learn about the wildlife and history of Greenland, your next stop. On deck, you\u2019ll learn to identify seabirds on the wing. Take in a lecture, share your photos, sip an icy cocktail in the bar or watch a movie\u2014there are many things to do during your time at sea."
+    },
+    {
+      "order": 5,
+      "title": "Day 9-12: Exploring East Greenland",
+      "duration": 4,
+      "description": "During your tour of Greenland\u2019s remote eastern coast, you\u2019ll enjoy Zodiac cruises and shore visits to several locations. Explore the remains of ancient Thule settlements and keep an eye out for grazing muskoxen\u201440 percent of the world\u2019s muskoxen population lives here. Finally, you will sail through spectacular Scoresbysund, the birthplace of many icebergs and, some say, the most beautiful fjord system in the world. If conditions allow, you may also visit Ittoqqortoormiit, the most remote community in East Greenland."
+    },
+    {
+      "order": 6,
+      "title": "Day 13-14: Crossing the Denmark Strait",
+      "duration": 2,
+      "description": "As we sail south, the Denmark Strait is your pathway toward Iceland. Your Expedition Team will keep you informed and entertained with presentations about the history of exploration in the Arctic and the seabirds you\u2019ll see soaring above your ship."
+    },
+    {
+      "order": 7,
+      "title": "Day 15: Disembarkation Day \u2013 Reykjavik, Icealnd",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.135796,
+          "city_name": "Reykjavik",
+          "longitude": -21.896657,
+          "location_id": 6079,
+          "country_code": "IS"
+        }
+      ],
+      "description": "You\u2019ll disembark in Reykjavik, Iceland\u2019s capital, at the end of your journey. If you have booked post-expedition accommodation, we provide a transfer to a central downtown location."
+    }
+  ],
+  "tour_name": "Spitsbergen, East Greenland and Iceland - Southbound",
+  "start_city": {
+    "latitude": 60.166109,
+    "city_name": "Helsinki",
+    "longitude": 24.941368,
+    "location_id": 5746,
+    "country_code": "FI"
+  },
+  "tour_types": [
+    {
+      "type_id": 14,
+      "group_id": 4,
+      "type_name": "Active",
+      "group_name": "Nature & Adventure"
+    },
+    {
+      "type_id": 164,
+      "group_id": 26,
+      "type_name": "Family",
+      "group_name": "Tour Demographics"
+    },
+    {
+      "type_id": 190,
+      "group_id": 11,
+      "type_name": "Polar",
+      "group_name": "Adventure Styles"
+    },
+    {
+      "type_id": 190,
+      "group_id": 6,
+      "type_name": "Polar",
+      "group_name": "Marine"
+    },
+    {
+      "type_id": 228,
+      "group_id": 20,
+      "type_name": "Arctic",
+      "group_name": "Polar Activities"
+    },
+    {
+      "type_id": 372,
+      "group_id": 1,
+      "type_name": "Group",
+      "group_name": "Group Type"
+    },
+    {
+      "type_id": 373,
+      "group_id": 2,
+      "type_name": "Fully Guided",
+      "group_name": "Guide Type"
+    },
+    {
+      "type_id": 377,
+      "group_id": 3,
+      "type_name": "Easy",
+      "group_name": "Physical rating type"
+    }
+  ],
+  "description": "Natural splendour, bountiful wildlife and a pioneering spirit all coalesce in the High Arctic, a region once reserved for only the hardiest of travellers but now open to anyone with a real yearning for adventure. Starting out from the isolated Spitsbergen outpost of Longyearbyen, this expedition heads down through the Arctic Circle, taking in the islands of the Svalbard Archipelago, the north-east coast of Greenland and the journey over the Denmark Strait to Iceland. Following in the proverbial wake of explorers past, you'll be treated to stunning sceneries of vast glacial walls, sprawling fjord systems and icebergs the size of skyscrapers. Time spent on the ship will include educational presentations on tales of polar exploration and seabird identification, while there'll be plenty of opportunities for spotting the region's famed wildlife during Zodiac excursions. This voyage across the Arctic Circle allows travellers to experience three different countries of the Arctic in a relatively short space of time.<br /><br />As you\u2019d expect, temperatures in the Arctic are very cold. A warm parka will be provided along with waterproof boots and unlimited hot drinks, but you should also bring base layers and lots of warm clothing. Please see the Essential Trip Information's 'Packing' section.\r\n\r\nWeather depending, you will be making regular excursions in a Zodiac boat to explore the local area and look for wildlife. It can get very cold and wet on the Zodiac, so make sure you are dressed appropriately and that you keep your camera safe and dry. Sturdy sea legs are needed as you make wet and dry landings from the boat, and on steep terrain, snow and other uneven surfaces. Some ships have a lot of stairs, so please hold on to the handrails if seas are rough.\r\n\r\nThe weather plays a pivotal part in this adventure and although there\u2019s an itinerary in place, there are no guarantees that you\u2019ll be able to do everything that is planned for. A level of flexibility and openness to embracing the unexpected are important in expedition travel, especially to such a remote area.\r\n\r\nThis trip takes places during the time of year that Spitsbergen enjoys 24-hour daylight. Just one of the benefits of this is that incredible wildlife can be seen at any time of the day \u2013 be prepared to be woken at any time so as to not miss out on exciting animal sightings.\r\n\r\nPolar bears are one of the most incredible and appealing animals on the planet, but they are also powerful predators with little fear of humans. Therefore it\u2019s necessary to be aware of the guidelines surrounding any contact with Polar bears. Follow your leader\u2019s instructions and do not stray from your group \u2013 your leader carries equipment to protect you.",
+  "start_point": {},
+  "destinations": {
+    "cities": [
+      {
+        "latitude": 60.166109,
+        "city_name": "Helsinki",
+        "longitude": 24.941368,
+        "location_id": 5746,
+        "country_code": "FI"
+      },
+      {
+        "latitude": 78.220187,
+        "city_name": "Longyearbyen",
+        "longitude": 15.645811,
+        "location_id": 1168,
+        "country_code": "SJ"
+      },
+      {
+        "latitude": 78.605614,
+        "city_name": "Spitsbergen",
+        "longitude": 15.884857,
+        "location_id": 16975,
+        "country_code": "NO"
+      },
+      {
+        "latitude": 64.135796,
+        "city_name": "Reykjavik",
+        "longitude": -21.896657,
+        "location_id": 6079,
+        "country_code": "IS"
+      }
+    ],
+    "countries": [
+      {
+        "location_id": 61,
+        "country_code": "FI",
+        "country_name": "Finland",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "electricity_outlets": [
+          "C",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "location_id": 244,
+        "country_code": "SJ",
+        "country_name": "Svalbard",
+        "currency_code": "NOK",
+        "currency_name": "Norwegian Krone",
+        "electricity_outlets": [
+          "C",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "location_id": 130,
+        "country_code": "NO",
+        "country_name": "Norway",
+        "currency_code": "NOK",
+        "currency_name": "Norwegian Krone",
+        "electricity_outlets": [
+          "C",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "location_id": 77,
+        "country_code": "IS",
+        "country_name": "Iceland",
+        "currency_code": "ISK",
+        "currency_name": "Iceland Krona",
+        "electricity_outlets": [
+          "C",
+          "E",
+          "F"
+        ]
+      }
+    ],
+    "natural_destinations": [
+      {
+        "type": "region",
+        "latitude": 73.63247534699354,
+        "longitude": -9.580686037391388,
+        "location_id": 1000809,
+        "natural_destination_name": "Arctic / North Pole"
+      },
+      {
+        "type": "island",
+        "latitude": 78.84517547933591,
+        "longitude": 21.441132762385983,
+        "location_id": 1001471,
+        "country_code": "SJ",
+        "natural_destination_name": "Svalbard"
+      }
+    ]
+  },
+  "reviews_count": 0,
+  "max_group_size": 138,
+  "guide_languages": [
+    1
+  ],
+  "departure_months": [
+    {
+      "year": 2025,
+      "month": 8
+    }
+  ],
+  "tour_length_days": 15,
+  "is_instant_confirmable": true,
+  "has_machine_translated_content": false,
+  "reviews": [],
+  "tour_url": "https://www.tourradar.com/t/67896"
+}

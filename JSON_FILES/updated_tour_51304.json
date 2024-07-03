@@ -1,0 +1,577 @@
+{
+  "codes": [
+    "ZR",
+    "ZR|8"
+  ],
+  "budget": "luxury",
+  "images": [
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/51304_95f0ff.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/51304_95f0ff.jpg",
+      "location_name": "Reykjavik, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/51304_0b0a4f3d.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/51304_0b0a4f3d.jpg",
+      "location_name": "Reykjavik, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/51304_9eb3bba5.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/51304_9eb3bba5.jpg",
+      "location_name": "Reykjavik"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/51304_8baf2823.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/51304_8baf2823.jpg",
+      "location_name": "\u00deingvellir National Park"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/51304_30fc3b1c.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/51304_30fc3b1c.jpg",
+      "location_name": "Downderry, Cornwall, UK"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/51304_55826c8a.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/51304_55826c8a.jpg",
+      "location_name": "This location is Troms\u00f8, Norway."
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/51304_ceeb7b90.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/51304_ceeb7b90.jpg",
+      "location_name": "Sk\u00f3gafoss, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/51304_fff25aad.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/51304_fff25aad.jpg",
+      "location_name": "Kirkjufell, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/51304_53a350de.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/51304_53a350de.jpg",
+      "location_name": "Kirkjufell"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/51304_aee5d735.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/51304_aee5d735.jpg",
+      "location_name": "Fja\u00f0r\u00e1rglj\u00fafur Canyon"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/map/1500x800/51304_cffa.png",
+      "type": "map",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/map/200x200/51304_cffa.png",
+      "location_name": "Iceland"
+    }
+  ],
+  "locale": "en_US",
+  "ratings": {
+    "food": 4.3,
+    "guide": 5.0,
+    "overall": 5.0,
+    "operator": 5.0,
+    "itinerary": 5.0,
+    "transport": 5.0,
+    "accommodation": 4.3
+  },
+  "tour_id": 51304,
+  "end_city": {
+    "latitude": 64.135796,
+    "city_name": "Reykjavik",
+    "longitude": -21.896657,
+    "location_id": 6079,
+    "country_code": "IS"
+  },
+  "language": "en",
+  "operator": {
+    "id": 1907,
+    "name": "Globus"
+  },
+  "services": {
+    "guide": [
+      {
+        "description": "An expert guide is included.",
+        "is_included": true
+      }
+    ],
+    "meals": [
+      {
+        "description": "Full buffet breakfast daily, 6 Dinners",
+        "is_included": true,
+        "food_options": [
+          "jain",
+          "vegetarian",
+          "vegan",
+          "halal",
+          "kosher",
+          "meat"
+        ]
+      }
+    ],
+    "others": [
+      {
+        "is_included": false
+      }
+    ],
+    "flights": [
+      {
+        "is_included": false
+      }
+    ],
+    "optional": [
+      {
+        "is_included": false
+      }
+    ],
+    "insurance": [
+      {
+        "is_included": false
+      }
+    ],
+    "transport": [
+      {
+        "ships": [
+          {
+            "name": "K",
+            "description": ""
+          }
+        ],
+        "description": "Motorcoach; mountain train. Free Wi-Fi available on your motorcoach and in most hotel lobbies.",
+        "is_included": true
+      }
+    ],
+    "accommodation": [
+      {
+        "ship_rooms": [
+          {
+            "ship_name": "K"
+          }
+        ],
+        "is_included": true,
+        "accommodations": [
+          {
+            "type": "hotel",
+            "nights": 7
+          }
+        ]
+      }
+    ]
+  },
+  "age_range": {
+    "strict": {
+      "max_age": 80,
+      "min_age": 5
+    }
+  },
+  "end_point": {},
+  "is_active": true,
+  "itinerary": [
+    {
+      "order": 1,
+      "title": "Day 1: ARRIVE IN REYKJAVIK, ICELAND",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.135796,
+          "city_name": "Reykjavik",
+          "longitude": -21.896657,
+          "location_id": 6079,
+          "country_code": "IS"
+        }
+      ],
+      "description": "<SPAN CLASS=subtitle>Welcome to Reykjavik! </SPAN>At 6 pm, meet your Tour Director and travel companions for a welcome dinner at your hotel. (D)</BR></BR><SPAN CLASS=dayimage>REYKJAVIK-CITY.jpg</SPAN>"
+    },
+    {
+      "order": 2,
+      "title": "Day 2: REYKJAVIK\u2013HELLISHEI\u00d0ARVIRKJUN\u2013GEYSIR\u2013GULLFOSS\u2013THINGVELLIR\u2013BORGARNES",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.279509,
+          "city_name": "Dover",
+          "longitude": -20.361384,
+          "location_id": 12408,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 64.327751,
+          "city_name": "Gullfoss",
+          "longitude": -20.121333,
+          "location_id": 16224,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 64.255857,
+          "city_name": "Thingvellir National Park",
+          "longitude": -21.130362,
+          "location_id": 16219,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 64.53834,
+          "city_name": "Borgarnes",
+          "longitude": -21.92064,
+          "location_id": 21560,
+          "country_code": "IS"
+        }
+      ],
+      "description": "<SPAN CLASS=subtitle>Incredible Iceland </SPAN>REYKJAVIK Orientation drive.</BR>HELLISHEI\u00d0ARVIRKJUN Visit the geothermal heat and electric power station.</BR>GEYSIR Stop at the hot springs and  taste local specialties with a glass of Geysir Schnapps.</BR>GULLFOSS Take pictures at the Gullfoss waterfalls.</BR>THINGVELLIR  Walk through the rift valley en route to Borgarnes.(B,D) </BR>180 mi / 290 km</BR></BR><SPAN CLASS=favorites>LOCAL FAVORITE </BR>NATURAL WONDERS Iceland is the only place in the world where separation between the North American and European geological rift (tectonic plates) are above sea level, and nowhere in the world are the edges of both plates as clearly visible than the rift valley in Thingvellir National Park. Here, you can stand on two continents at the same time! </SPAN></BR></BR><SPAN CLASS=dayimage>GULLFOSS-WATERFALL.jpg</SPAN>"
+    },
+    {
+      "order": 3,
+      "title": "Day 3: BORGARNES\u2013HAUGANES\u2013AKUREYRI",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 65.68384,
+          "city_name": "Akureyri",
+          "longitude": -18.110619,
+          "location_id": 6080,
+          "country_code": "IS"
+        }
+      ],
+      "description": "<SPAN CLASS=subtitle>Giant Love </SPAN>HAUGANES Take a  whale-watching cruise before continuing to Akureyri. (B)</BR>217 mi / 350 km</BR></BR><SPAN CLASS=favorites>LOCAL FAVORITE </BR>WILD & WONDERFUL Take a whale-watching cruise from Hauganes for the chance to spot humpback and minke whales and dolphins surfacing on the glassy waters of Eyjafjordur bay. </SPAN></BR></BR><SPAN CLASS=dayimage>HAUGANES-WHALE-WATCHING.jpg</SPAN>"
+    },
+    {
+      "order": 4,
+      "title": "Day 4: AKUREYRI\u2013GO\u0110AFOSS\u2013LAKE M\u00ddVATN\u2013DETTIFOSS\u2013EGILSSTADIR",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 65.682999,
+          "city_name": "Godafoss",
+          "longitude": -17.550824,
+          "location_id": 22849,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 65.60386,
+          "city_name": "Myvatn",
+          "longitude": -16.996104,
+          "location_id": 12538,
+          "country_code": "IS"
+        }
+      ],
+      "description": "<SPAN CLASS=subtitle>Heavenly Sights </SPAN>AKUREYRI Take an orientation walk that includes the botanical gardens.</BR>GO\u0110AFOSS Take pictures of the \u201cWaterfall of the Gods.\u201d  Scenic drive to the lovely blue Lake M\u00fdvatn.</BR>LAKE M\u00ddVATN Stop at lake M\u00fdvatn.</BR>DETTIFOSS Take photos of the most powerful waterfall in Europe (road conditions permitting) before continuing to Egilsstadir. (B,D) </BR>190 mi / 305 km</BR></BR><SPAN CLASS=highlights>TOUR HIGHLIGHT</BR>PICTURE PERFECT Take the photographs of a lifetime with a stop at North Iceland\u2019s historic and magnificent Go\u00f0afoss waterfall, stretching 90 feet across dramatic rock formations to deliver its spectacular cascades along the glacial-fed Skj\u00e1lfandaflj\u00f3t River. </SPAN></BR></BR><SPAN CLASS=dayimage>GODAFOSS-WATERFALL.jpg</SPAN>"
+    },
+    {
+      "order": 5,
+      "title": "Day 5: EGILSSTADIR\u2013H\u00d6FN AREA",
+      "duration": 1,
+      "description": "<SPAN CLASS=subtitle>Warm Friends on an Icelandic Fjord </SPAN>EGILSSTADIR Scenic drive en route to H\u00f6fn. (B,D)</BR>159 mi / 256 km</BR></BR><SPAN CLASS=highlights>TOUR HIGHLIGHT </BR>CULTURE & TRADITION Hear about the Lagarflj\u00f3twurm, a snake-like animal that is supposed to guard a pot of gold located by Lake L\u00f6gurinn and take in the natural beauty of this fjord town where sheep farming, fishing, and music festivals are all part of the culture.</SPAN></BR></BR><SPAN CLASS=dayimage>HOFN.jpg</SPAN>"
+    },
+    {
+      "order": 6,
+      "title": "Day 6: H\u00d6FN AREA\u2013LAKE J\u00d6KULS\u00c1RL\u00d3N\u2013SKAFTAFELL NATIONAL PARK\u2013VIK AREA",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.255893,
+          "city_name": "Hofn",
+          "longitude": -15.207653,
+          "location_id": 13803,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 64.070309,
+          "city_name": "Jokulsarlon",
+          "longitude": -16.21154,
+          "location_id": 16225,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 64.070389,
+          "city_name": "Skaftafell",
+          "longitude": -16.974975,
+          "location_id": 12537,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 63.630404,
+          "city_name": "Eyjafjallajokull",
+          "longitude": -19.606733,
+          "location_id": 16218,
+          "country_code": "IS"
+        }
+      ],
+      "description": "<SPAN CLASS=subtitle>Icy Beauty</SPAN> LAKE J\u00d6KULS\u00c1RL\u00d3N  Take photos of the Vatnaj\u00f6kull Glacier (weather permitting). Scenic drive through Skaftafell National Park en route to Vik. (B,D) </BR>169 mi / 272 km</BR></BR><SPAN CLASS=favorites>LOCAL FAVORITE </BR>PICTURE PERFECT Drive through the national park at Skaftafell and stop at Lake J\u00f6kuls\u00e1rl\u00f3n. Snap photos to capture the astonishingly beautiful glacier Vatnaj\u00f6kull (the Water Glacier) which flows into the lake for a spectacular sight to see at Iceland's largest ice cap. </SPAN></BR></BR><SPAN CLASS=dayimage>VATNAJOKULL-GLACIER.jpg</SPAN>"
+    },
+    {
+      "order": 7,
+      "title": "Day 7: VIK AREA\u2013SELJALANDSFOSS\u2013REYKJAVIK",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 63.74999,
+          "city_name": "Hvolsvollur",
+          "longitude": -20.233984,
+          "location_id": 12536,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 64.135796,
+          "city_name": "Reykjavik",
+          "longitude": -21.896657,
+          "location_id": 6079,
+          "country_code": "IS"
+        }
+      ],
+      "description": "<SPAN CLASS=subtitle>Earthly Powers </SPAN>VIK AREA Scenic drive with views of the Eyjafjallaj\u00f6kull volcano. </BR>SELJALANDSFOSS Take photos of the waterfall.</BR>REYKJAVIK Enjoy a farewell dinner at a local restaurant. (B,D) </BR>118 mi / 190 km</BR></BR><SPAN CLASS=highlights>TOUR HIGHLIGHT</BR>NATURAL WONDERS Eyjafjallaj\u00f6kull is one of Iceland\u2019s few stratovolcanoes (with an ice cap covering the caldera). When the volcano erupted in 2010, the glacier topping also broke, and the plume of ash rose over five miles into the sky \u2013 interrupting European air travel for almost a month! </SPAN></BR></BR><SPAN CLASS=dayimage>VIK.jpg</SPAN>"
+    },
+    {
+      "order": 8,
+      "title": "Day 8: REYKJAVIK",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.135796,
+          "city_name": "Reykjavik",
+          "longitude": -21.896657,
+          "location_id": 6079,
+          "country_code": "IS"
+        }
+      ],
+      "description": "<SPAN CLASS=subtitle>Safe travels until we meet again! </SPAN>Your vacation ends with breakfast this morning. (B)</BR></BR><SPAN CLASS=dayimage>REYKJAVIK-EVENING.jpg</SPAN>"
+    }
+  ],
+  "tour_name": "Iceland Adventure",
+  "start_city": {
+    "latitude": 64.135796,
+    "city_name": "Reykjavik",
+    "longitude": -21.896657,
+    "location_id": 6079,
+    "country_code": "IS"
+  },
+  "tour_types": [
+    {
+      "type_id": 14,
+      "group_id": 4,
+      "type_name": "Active",
+      "group_name": "Nature & Adventure"
+    },
+    {
+      "type_id": 77,
+      "group_id": 11,
+      "type_name": "In-depth Cultural",
+      "group_name": "Adventure Styles"
+    },
+    {
+      "type_id": 164,
+      "group_id": 26,
+      "type_name": "Family",
+      "group_name": "Tour Demographics"
+    },
+    {
+      "type_id": 372,
+      "group_id": 1,
+      "type_name": "Group",
+      "group_name": "Group Type"
+    },
+    {
+      "type_id": 373,
+      "group_id": 2,
+      "type_name": "Fully Guided",
+      "group_name": "Guide Type"
+    },
+    {
+      "type_id": 378,
+      "group_id": 3,
+      "type_name": "Moderate",
+      "group_name": "Physical rating type"
+    },
+    {
+      "type_id": 383,
+      "group_id": 11,
+      "type_name": "Explorer",
+      "group_name": "Adventure Styles"
+    },
+    {
+      "type_id": 403,
+      "group_id": 29,
+      "type_name": "Private Room",
+      "group_name": "Solo Travelers"
+    }
+  ],
+  "description": "Icelandic folklore maintains there are clans of elves and trolls living in the country\u2019s extraordinary hills, rocky outcrops, and lava fields. Will you meet these \u201cHulduf\u00f3lk\u201d or \u201cHidden People\u201d said to dislike churches, daylight, and electricity? Hard to say. But here\u2019s what you will see on this breathtaking tour of Iceland\u2014active volcanoes, roaring waterfalls, jagged glaciers, floating icebergs, black-sand beaches, and brilliant-blue geothermal springs. Unique, local experiences await in the \u201cLand of Fire and Ice,\u201d including tasting piping hot bread baked by the heat from the hot springs, sipping Geysir schnapps served at freezing point, and standing in awe before the spectacular Lake J\u00f6kuls\u00e1rl\u00f3n, home to Europe\u2019s largest glacier and the site of some of the most dramatic scenes from the James Bond movie Die Another Day. The gargantuan sights in the land of the elves will surely leave you stirred, not shaken.",
+  "start_point": {},
+  "destinations": {
+    "cities": [
+      {
+        "latitude": 64.135796,
+        "city_name": "Reykjavik",
+        "longitude": -21.896657,
+        "location_id": 6079,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.279509,
+        "city_name": "Dover",
+        "longitude": -20.361384,
+        "location_id": 12408,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.327751,
+        "city_name": "Gullfoss",
+        "longitude": -20.121333,
+        "location_id": 16224,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.255857,
+        "city_name": "Thingvellir National Park",
+        "longitude": -21.130362,
+        "location_id": 16219,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.53834,
+        "city_name": "Borgarnes",
+        "longitude": -21.92064,
+        "location_id": 21560,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 65.68384,
+        "city_name": "Akureyri",
+        "longitude": -18.110619,
+        "location_id": 6080,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 65.682999,
+        "city_name": "Godafoss",
+        "longitude": -17.550824,
+        "location_id": 22849,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 65.60386,
+        "city_name": "Myvatn",
+        "longitude": -16.996104,
+        "location_id": 12538,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.255893,
+        "city_name": "Hofn",
+        "longitude": -15.207653,
+        "location_id": 13803,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.070309,
+        "city_name": "Jokulsarlon",
+        "longitude": -16.21154,
+        "location_id": 16225,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.070389,
+        "city_name": "Skaftafell",
+        "longitude": -16.974975,
+        "location_id": 12537,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 63.630404,
+        "city_name": "Eyjafjallajokull",
+        "longitude": -19.606733,
+        "location_id": 16218,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 63.74999,
+        "city_name": "Hvolsvollur",
+        "longitude": -20.233984,
+        "location_id": 12536,
+        "country_code": "IS"
+      }
+    ],
+    "countries": [
+      {
+        "location_id": 77,
+        "country_code": "IS",
+        "country_name": "Iceland",
+        "currency_code": "ISK",
+        "currency_name": "Iceland Krona",
+        "electricity_outlets": [
+          "C",
+          "E",
+          "F"
+        ]
+      }
+    ],
+    "natural_destinations": [
+      {
+        "type": "region",
+        "location_id": 1000418,
+        "natural_destination_name": "Iceland Ring Road"
+      }
+    ]
+  },
+  "reviews_count": 519,
+  "max_group_size": 46,
+  "guide_languages": [
+    1
+  ],
+  "departure_months": [
+    {
+      "year": 2024,
+      "month": 5
+    },
+    {
+      "year": 2024,
+      "month": 6
+    },
+    {
+      "year": 2024,
+      "month": 7
+    },
+    {
+      "year": 2024,
+      "month": 8
+    },
+    {
+      "year": 2024,
+      "month": 9
+    },
+    {
+      "year": 2025,
+      "month": 4
+    },
+    {
+      "year": 2025,
+      "month": 5
+    },
+    {
+      "year": 2025,
+      "month": 6
+    },
+    {
+      "year": 2025,
+      "month": 7
+    },
+    {
+      "year": 2025,
+      "month": 8
+    },
+    {
+      "year": 2025,
+      "month": 9
+    }
+  ],
+  "tour_length_days": 8,
+  "is_instant_confirmable": true,
+  "has_machine_translated_content": false,
+  "reviews": [],
+  "tour_url": "https://www.tourradar.com/t/51304"
+}

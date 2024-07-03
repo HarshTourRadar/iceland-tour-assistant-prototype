@@ -1,0 +1,430 @@
+{
+  "codes": [
+    "1522",
+    "IMG31"
+  ],
+  "budget": "comfort",
+  "images": [
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/25512_00ce2e71.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/25512_00ce2e71.jpg",
+      "location_name": "Landmannalaugar, Iceland."
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/25512_3895f932.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/25512_3895f932.jpg",
+      "location_name": "Th\u00f3rsm\u00f6rk, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/25512_752451a4.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/25512_752451a4.jpg",
+      "location_name": "This location is Laugavegur, Iceland."
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/25512_b664e9cd.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/25512_b664e9cd.jpg",
+      "location_name": "This location is the Laugavegur Trail in Iceland."
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/25512_69ac5103.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/25512_69ac5103.jpg",
+      "location_name": "Landmannalaugar, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/25512_b1ac466a.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/25512_b1ac466a.jpg",
+      "location_name": "Landmannalaugar, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/25512_ef03d46d.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/25512_ef03d46d.jpg",
+      "location_name": "Landmannalaugar, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/25512_223c84db.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/25512_223c84db.jpg",
+      "location_name": "\u00de\u00f3rsm\u00f6rk, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/25512_24d1817d.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/25512_24d1817d.jpg",
+      "location_name": "Landmannalaugar, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/map/1500x800/25512_2876.png",
+      "type": "map",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/map/200x200/25512_2876.png",
+      "location_name": "Reykjavik"
+    }
+  ],
+  "locale": "en_US",
+  "ratings": {
+    "food": 4.8,
+    "guide": 5.0,
+    "overall": 4.8,
+    "operator": 4.7,
+    "itinerary": 4.8,
+    "transport": 4.7,
+    "accommodation": 4.2
+  },
+  "tour_id": 25512,
+  "end_city": {
+    "latitude": 64.135796,
+    "city_name": "Reykjavik",
+    "longitude": -21.896657,
+    "location_id": 6079,
+    "country_code": "IS"
+  },
+  "language": "en",
+  "operator": {
+    "id": 1367,
+    "name": "Icelandic Mountain Guides"
+  },
+  "services": {
+    "guide": [
+      {
+        "description": "<p>Qualified guide for 5 days\u00a0</p>",
+        "is_included": true
+      }
+    ],
+    "meals": [
+      {
+        "description": "<p>Food for 5 days (from lunch on day 1 to lunch on day 5)</p>",
+        "is_included": true,
+        "food_options": [
+          "vegetarian",
+          "vegan",
+          "meat"
+        ]
+      }
+    ],
+    "others": [
+      {
+        "description": "<p>Final evening barbecue party in \u00de\u00f3rsm\u00f6rk</p>",
+        "is_included": true
+      },
+      {
+        "description": "<ul>  <li>Sleeping bag</li>  <li>Showers in huts (payable on site)</li></ul>",
+        "is_included": false
+      }
+    ],
+    "insurance": [
+      {
+        "description": "<p>Personal Insurance is not included - please ensure you have your own personal insurance which includes rescue</p>",
+        "is_included": false
+      }
+    ],
+    "transport": [
+      {
+        "description": "<p>Public transportation to and from Reykjav\u00edk<br /></p>",
+        "is_included": true
+      }
+    ],
+    "accommodation": [
+      {
+        "description": "<p>Accommodation in mountain huts dormitory><li>Transfer of luggage</p>",
+        "is_included": true,
+        "accommodations": [
+          {
+            "type": "hut"
+          }
+        ]
+      }
+    ]
+  },
+  "age_range": {
+    "strict": {
+      "max_age": 99,
+      "min_age": 14
+    }
+  },
+  "end_point": {},
+  "is_active": true,
+  "itinerary": [
+    {
+      "order": 1,
+      "title": "Day 1: Reykjav\u00edk - Landmannalaugar - Hrafntinnusker",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 63.990842,
+          "city_name": "Landmannalaugar",
+          "longitude": -19.060595,
+          "location_id": 16233,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 63.93363,
+          "city_name": "Hrafntinnusker Mountain",
+          "longitude": -19.168546,
+          "location_id": 27688,
+          "country_code": "IS"
+        }
+      ],
+      "description": "We take the regular bus from BSI bus terminal at 07:00, that during the summer months drives the mountain tracks that lead to Landmannalaugar, passing by the Hekla volcano and other volcanoes in the D\u00f3madalur area. Arriving in Landmannalaugar at noon, we have a lunch and then head south into the mountains. The trail takes us past small gorges, steaming hot springs and yellow mountain ridges. Arrival at Hrafntinnusker mountain hut, were we will stay the night, in the late afternoon."
+    },
+    {
+      "order": 2,
+      "title": "Day 2: Hrafntinnusker - \u00c1lftavatn",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 63.93363,
+          "city_name": "Hrafntinnusker Mountain",
+          "longitude": -19.168546,
+          "location_id": 27688,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 63.857635,
+          "city_name": "Alftavatn",
+          "longitude": -19.227233,
+          "location_id": 38386,
+          "country_code": "IS"
+        }
+      ],
+      "description": "From Hrafntinnusker we descend down in the gullies of J\u00f6kultungur with hundreds of steaming hot springs and mud pools. Up there we enjoy fascinating views to the south to the \u00c1lftavatn area (Swan Lake), and the M\u00fdrdalsj\u00f6kull and Eyjafjallaj\u00f6kull glaciers. In the afternoon we arrive at \u00c1lftavatn hut where we stay the night.\r\n"
+    },
+    {
+      "order": 3,
+      "title": "Day 3: lftavatn - Emstrur",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 63.857635,
+          "city_name": "Alftavatn",
+          "longitude": -19.227233,
+          "location_id": 38386,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 63.765991,
+          "city_name": "Emstrur",
+          "longitude": -19.373982,
+          "location_id": 27687,
+          "country_code": "IS"
+        }
+      ],
+      "description": "We pass at the foot of the green conic volcano of St\u00f3ras\u00fala before entering the black deserts of M\u00e6lifellssandur. Heading towards another ancient and verdurous volcano, the Hattfell, we enter the Emstrur region where farmers used to graze their sheep in summer. Before arriving at the Botnar hut where we stay the night, we visit the magnificent Markarflj\u00f3t canyon cut almost 200 m down into the rocks south of Hattfell."
+    },
+    {
+      "order": 4,
+      "title": "Day 4: Emstrur - \u00de\u00f3rsm\u00f6rk",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 63.765991,
+          "city_name": "Emstrur",
+          "longitude": -19.373982,
+          "location_id": 27687,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 63.702654,
+          "city_name": "Thorsmork Nature Reserve",
+          "longitude": -19.427149,
+          "location_id": 16228,
+          "country_code": "IS"
+        }
+      ],
+      "description": "We continue up and down through the small valleys and gullies of Emstrur, where the great M\u00fdrdalsj\u00f6kull glacier rises only a couple of kilometers away. At the end of the day the vegetation starts to grow thicker and higher as we descend in to \u00de\u00f3rsm\u00f6rk's (the woods of Thor) green valleys filled with arctic birch forests and colorful flowers. Night in one of the huts in \u00de\u00f3rsm\u00f6rk."
+    },
+    {
+      "order": 5,
+      "title": "Day 5: rsm\u00f6rk - Reykjav\u00edk",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 63.702654,
+          "city_name": "Thorsmork Nature Reserve",
+          "longitude": -19.427149,
+          "location_id": 16228,
+          "country_code": "IS"
+        }
+      ],
+      "description": "We spend the morning in \u00de\u00f3rsm\u00f6rk where we walk along one of numerous paths. For example, we can visit to the S\u00f6nghellir cave (\u201cSong cave\u201d), climb up the small mountain of Valahn\u00fakur from where magnificent view can be enjoyed, before taking the afternoon bus to Reykjav\u00edk. Arrival at Reykjavik BSI bus terminal where the trip ends.at 19:30"
+    }
+  ],
+  "tour_name": "5-Day Laugavegur Trek in Huts",
+  "start_city": {
+    "latitude": 64.135796,
+    "city_name": "Reykjavik",
+    "longitude": -21.896657,
+    "location_id": 6079,
+    "country_code": "IS"
+  },
+  "tour_types": [
+    {
+      "type_id": 73,
+      "group_id": 11,
+      "type_name": "Hiking & Trekking",
+      "group_name": "Adventure Styles"
+    },
+    {
+      "type_id": 231,
+      "group_id": 18,
+      "type_name": "Mountain Hikes",
+      "group_name": "Hiking Styles"
+    },
+    {
+      "type_id": 240,
+      "group_id": 18,
+      "type_name": "Attraction-Based Hikes",
+      "group_name": "Hiking Styles"
+    },
+    {
+      "type_id": 372,
+      "group_id": 1,
+      "type_name": "Group",
+      "group_name": "Group Type"
+    },
+    {
+      "type_id": 373,
+      "group_id": 2,
+      "type_name": "Fully Guided",
+      "group_name": "Guide Type"
+    },
+    {
+      "type_id": 379,
+      "group_id": 3,
+      "type_name": "Serious",
+      "group_name": "Physical rating type"
+    },
+    {
+      "type_id": 383,
+      "group_id": 11,
+      "type_name": "Explorer",
+      "group_name": "Adventure Styles"
+    },
+    {
+      "type_id": 403,
+      "group_id": 29,
+      "type_name": "Private Room",
+      "group_name": "Solo Travelers"
+    }
+  ],
+  "description": "Iceland\u2019s most famous trek from Landmannalaugar to \u00de\u00f3rsm\u00f6rk lives up to the hype. The magical and diverse landscape combined with the long and bright Icelandic summer days, will capture your nature loving heart. We top off this amazing adventure with a ce",
+  "start_point": {
+    "name": "BS\u00cd Bus Terminal ",
+    "time": "06:30",
+    "address": "Vatnsm\u00fdrarvegur 10, Reykjav\u00edk, Iceland",
+    "latitude": 64.137628,
+    "longitude": -21.935123
+  },
+  "destinations": {
+    "cities": [
+      {
+        "latitude": 64.135796,
+        "city_name": "Reykjavik",
+        "longitude": -21.896657,
+        "location_id": 6079,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 63.990842,
+        "city_name": "Landmannalaugar",
+        "longitude": -19.060595,
+        "location_id": 16233,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 63.93363,
+        "city_name": "Hrafntinnusker Mountain",
+        "longitude": -19.168546,
+        "location_id": 27688,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 63.857635,
+        "city_name": "Alftavatn",
+        "longitude": -19.227233,
+        "location_id": 38386,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 63.765991,
+        "city_name": "Emstrur",
+        "longitude": -19.373982,
+        "location_id": 27687,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 63.702654,
+        "city_name": "Thorsmork Nature Reserve",
+        "longitude": -19.427149,
+        "location_id": 16228,
+        "country_code": "IS"
+      }
+    ],
+    "countries": [
+      {
+        "location_id": 77,
+        "country_code": "IS",
+        "country_name": "Iceland",
+        "currency_code": "ISK",
+        "currency_name": "Iceland Krona",
+        "electricity_outlets": [
+          "C",
+          "E",
+          "F"
+        ]
+      }
+    ],
+    "natural_destinations": [
+      {
+        "type": "region",
+        "latitude": 64.19559821518635,
+        "longitude": -18.0903256878859,
+        "location_id": 1000062,
+        "country_code": "IS",
+        "natural_destination_name": "South Iceland"
+      },
+      {
+        "type": "region",
+        "location_id": 1001128,
+        "natural_destination_name": "Laugavegur"
+      }
+    ]
+  },
+  "reviews_count": 7,
+  "max_group_size": 16,
+  "guide_languages": [
+    1
+  ],
+  "departure_months": [
+    {
+      "year": 2024,
+      "month": 6
+    },
+    {
+      "year": 2024,
+      "month": 8
+    },
+    {
+      "year": 2024,
+      "month": 9
+    }
+  ],
+  "tour_length_days": 5,
+  "is_instant_confirmable": false,
+  "has_machine_translated_content": false,
+  "reviews": [
+    "The group was professional and informative. The trek itself was dramatic and spectacular, as if being on another planet",
+    "Great trip...;leader was well versed in history and culture of Iceland....well planned out",
+    "The hike was beautiful and very well organized. Our guide - Yonn - did an amazing job of keeping a large group organized and coordinated. His attention to detail, description of locations, local history and knowledge was a great added value. Food was delicious and satisfying. Would suggest limiting group size as we were a large group. Also, the description on tour radar could have more accurately described the hike - providing elevation/topograhic profiles to show the terrain would have been helpful. Despite some challenging weather - would definitely do this again. Have already recommended it to many people! This trek was a wonderful way to see some rugged and beautiful landscape and really get away from it all.",
+    "Solvi was great! Very prepared and informative. Also had a great way of dealing with some of the more challenging people/situations on our tour.",
+    "A wonderful trip all around, Inga was extremely knowledgeable and took great care of us!",
+    "Wonderful experience, fantastic guide",
+    "Our guide was excellent. We really enjoyed her company during the trek. Well organised and informative. What we liked best was the varied and interesting landscape, the Icelandic salmon and lamb dinners prepared by our guides and the comradery with the guide and the group during the trek. We even liked the river crossings."
+  ],
+  "tour_url": "https://www.tourradar.com/t/25512"
+}

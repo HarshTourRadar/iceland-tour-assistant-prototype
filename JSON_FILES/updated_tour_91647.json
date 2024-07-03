@@ -1,0 +1,457 @@
+{
+  "codes": [
+    "BMRI"
+  ],
+  "budget": "budget",
+  "images": [
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91647_23f608.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91647_23f608.jpg",
+      "location_name": "\u00deingvellir National Park, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91647_c32e431e.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91647_c32e431e.jpg",
+      "location_name": "Reykjavik, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91647_36f55397.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91647_36f55397.jpg",
+      "location_name": "This image does not provide sufficient information to determine a specific location just based on the presentation of the food."
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91647_43e89e18.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91647_43e89e18.jpg",
+      "location_name": "Gullfoss Waterfall, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91647_698677ff.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91647_698677ff.jpg",
+      "location_name": "Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91647_a03ff265.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91647_a03ff265.jpg",
+      "location_name": "Thingvellir National Park"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91647_5d630642.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91647_5d630642.jpg",
+      "location_name": "J\u00f6kuls\u00e1rl\u00f3n Glacier Lagoon, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91647_8ccb9c92.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91647_8ccb9c92.jpg",
+      "location_name": "J\u00f6kuls\u00e1rl\u00f3n Glacier Lagoon in Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91647_652e9e456ffb1.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91647_652e9e456ffb1.jpg",
+      "location_name": "This is Sk\u00f3gafoss, located in Iceland."
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91647_652e9e457493b.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91647_652e9e457493b.jpg",
+      "location_name": "This image does not provide enough specific details to accurately determine the exact location. It shows a woman interacting with a waterfall, which could be in numerous places around the world."
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/map/1500x800/91647_f71e.png",
+      "type": "map",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/map/200x200/91647_f71e.png",
+      "location_name": "Reykjavik"
+    }
+  ],
+  "locale": "en_US",
+  "ratings": {
+    "food": 3.9,
+    "guide": 4.6,
+    "overall": 4.2,
+    "operator": 4.6,
+    "itinerary": 4.4,
+    "transport": 4.1,
+    "accommodation": 3.9
+  },
+  "tour_id": 91647,
+  "end_city": {
+    "latitude": 64.135796,
+    "city_name": "Reykjavik",
+    "longitude": -21.896657,
+    "location_id": 6079,
+    "country_code": "IS"
+  },
+  "language": "en",
+  "operator": {
+    "id": 204,
+    "name": "Intrepid Travel"
+  },
+  "services": {
+    "guide": [
+      {
+        "description": "<p>All Intrepid group trips in Iceland are accompanied by one of our group leaders, who will also be the driver. The aim of the group leader is to take the hassle out of your travels and to help you have the best trip possible. Intrepid endeavours to provide the services of an experienced leader however, due to the seasonality of travel, rare situations may arise where your leader is new to a particular region or training other group leaders.<br><br>Your leader will provide information on the places you are travelling through, offer suggestions for things to do and see and introduce you to our local friends. While not being guides in the traditional sense you can expect them to have a broad general knowledge of the places visited on the trip, including historical, cultural, religious and social aspects.</p>",
+        "is_included": true
+      }
+    ],
+    "meals": [
+      {
+        "description": "2 breakfasts",
+        "is_included": true,
+        "food_options": [
+          "vegetarian",
+          "vegan",
+          "halal",
+          "kosher",
+          "meat"
+        ]
+      }
+    ],
+    "others": [
+      {
+        "description": "<p>Golden Circle - Thingvellir National Park</p><p>Golden Circle - Strokkur Geysir</p><p>Golden Circle - Gullfoss Waterfall</p><p>Skogafoss - Waterfall Visit</p><p>South Coast -  Dyrholaey Viewpoint</p><p>South Coast - Black Sand Beach</p><p>South Coast - Reynisfjara Rocks</p><p>South Coast - Laki Lava Fields</p><p>Reykjavik - Leader-led walking tour</p><p>Jokulsarlon - Glacier Lagoon</p><p>Vik - Seljalandsfoss Waterfall</p><p>Jokulsarlon - Diamond Beach</p>",
+        "is_included": true
+      },
+      {
+        "description": "<p>Other activities and services not included</p>",
+        "is_included": false
+      }
+    ],
+    "flights": [
+      {
+        "description": "<p>International flights are not included</p>",
+        "is_included": false
+      }
+    ],
+    "optional": [
+      {
+        "description": "<p>Other activities and services not included</p>",
+        "is_included": false
+      }
+    ],
+    "insurance": [
+      {
+        "description": "Insurance is not included. Travel insurance is required for this tour. Please make sure you are adequately covered. If you require travel insurance, TourRadar has partnered up with World Nomads to provide a hassle-free experience. More information can be found here (https://www.tourradar.com/travel-insurance).",
+        "is_included": false
+      }
+    ],
+    "transport": [
+      {
+        "description": "<p>On this trip we are travelling in our own private minibus as this allows us to reach some more off the beaten path destinations and gives us flexibility which would not be possible by public transport. Please note that there are some long travel days and some rough stretches on gravelly and windy roads. On some days we depart early in the morning to ensure we optimise our time. All our vehicles in Iceland have complimentary Wi-Fi.</p><p>Private minibus with free wi-fi</p>",
+        "is_included": true
+      }
+    ],
+    "accommodation": [
+      {
+        "description": "<p><br><b>OCCASIONAL ALTERNATIVE ACCOMMODATION:</b><br><br>The style of accommodation indicated in the day-to-day itinerary is a guideline. On rare occasions, alternative arrangements may need to be made due to the lack of availability of rooms in our usual accommodation. A similar standard of accommodation will be used in these instances.<br><br><b>TWIN SHARE / MULTI SHARE BASIS:</b><br><br>Accommodation on this trip is on a twin or multishare basis. Single travellers will share a room with other travellers of the same gender. Twin-share, quad-share and multishare bunk accommodation may be used depending on the season and the make-up of the group. A single supplement is not available on this trip. Please also be aware that many guesthouses in Iceland offer shared bathrooms rather than ensuite facilities.<br><br><b>CHECK-IN TIME:</b><br><br>Throughout the trip we request that our hotels prepare rooms in time for our arrival, especially if we're arriving prior to normal check-in time. However this isn't always possible which means we won't be able to check-in immediately on arrival at some hotels. Instead, we can store our luggage and explore our new destination.<br><br><b>PRE/POST TRIP ACCOMMODATION:</b><br><br>If you've purchased pre-trip or post-trip accommodation (if available), you may be required to change rooms from your trip accommodation for these extra nights.<br><br><b>FACILITIES:</b><br><br>Your accommodation may not always have private en suite facilities or air-conditioning. European hotels generally don't provide kettles or fridges.</p><p><p>Guesthouses & Farm Stays (4 nights)</p></p>",
+        "is_included": true,
+        "accommodations": [
+          {
+            "type": "guesthouse",
+            "nights": 4
+          }
+        ]
+      }
+    ]
+  },
+  "age_range": {
+    "strict": {
+      "max_age": 99,
+      "min_age": 15
+    },
+    "recommended": {
+      "max_age": 70,
+      "min_age": 18
+    }
+  },
+  "end_point": {},
+  "is_active": true,
+  "itinerary": [
+    {
+      "order": 1,
+      "title": "Day 1: Reykjavik",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.135796,
+          "city_name": "Reykjavik",
+          "longitude": -21.896657,
+          "location_id": 6079,
+          "country_code": "IS"
+        }
+      ],
+      "description": "Hallo! Welcome to Iceland. The world's northernmost capital of Reykjavik lies just below the Arctic Circle. The city sees around four hours of sunlight a day in winter and 22 hours or more in summer. Surrounded by volcanic peaks and crystalline ocean, and boasting a vibrant arts and nightlife scene, Reykjavik's contrasts are utterly beguiling. Why not arrive early and head to the National Museum, which depicts the history of Iceland from the ninth century (when the first Vikings from mainland Scandinavia arrived and settled) to the present day, or join locals who gossip and chatter in the Laugardalslaug Geothermal Pool."
+    },
+    {
+      "order": 2,
+      "title": "Day 2: Golden Circle / Hvolsvollur Area",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 63.532222,
+          "city_name": "Skogafoss",
+          "longitude": -19.511033,
+          "location_id": 20258,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 63.74999,
+          "city_name": "Hvolsvollur",
+          "longitude": -20.233984,
+          "location_id": 12536,
+          "country_code": "IS"
+        }
+      ],
+      "description": "Head out of town early this morning to follow the Golden Circle driving route towards Thingvellir National Park. Thingvellir was the location of Iceland's first parliament, founded in AD930, and is also the site of the Silfra Fissure, where tectonic plates are pulling apart and exposing some pretty wild rock shelves. Continue on to the Geysir Geothermal Area and check out the Strokkur Geyser \u2013 it swells with blue water before erupting and shooting a spout some 20\u201330 metres in the air. Finally, witness the sheer power of the Gullfoss (Golden) Waterfall on the Hvita River. You'll even get a chance to stop by Secret Lagoon, a natural hot pool that will beckon you to take a dip, on your way to tonight's accommodation. After your Golden Circle tour, head to your stay in the Hvolsvollur region for the evening. This guesthouse is a leader in local responsible tourism and sustainability. The owners started a tree planting project on their land to contribute to lowering atmospheric carbon dioxide and counteract soil erosion. Tonight, you\u2019ll have the option to join the effort and head out into the hills surrounding the property to plant trees yourself."
+    },
+    {
+      "order": 3,
+      "title": "Day 3: Myrdalsjokull / South Coast / Reynivellir",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 63.64673,
+          "city_name": "Myrdalsjokull",
+          "longitude": -19.130282,
+          "location_id": 31662,
+          "country_code": "IS"
+        }
+      ],
+      "description": "Begin the day with a visit to the breathtaking Skogafoss \u2013 a giant waterfall, 25-metres wide and dropping 60 metres. Get up close and feel its power, then climb a long and windy set of stairs to a stunning viewpoint. Next up is one of Europe's biggest ice caps \u2013 Myrdalsjokull \u2013 which covers the active volcano Katla. Choose whether to join an optional hike over the glacier tongue \u2013 no experience is necessary. It\u2019s sobering to think that the glacier is retreating due to rising world temperatures and may soon be gone. If you don't want to take the glacier walk, perhaps explore the area around the glacier tongue. Alternatively, Skogafoss waterfall has a number of walking trails, or you can visit the Skogar folk museum. Along today's drive you'll get to check out the Laki Lava fields as you continue along Iceland's South Shore, spotting bird colonies on the promontory of Dyrholaey, Iceland's southernmost point. You\u2019ll also see the amazing stepping-stone rock formations of Reynisdrangar and its black sand beach, Reynisfjara. Continue to your overnight stop in the countryside near Reynivellir."
+    },
+    {
+      "order": 4,
+      "title": "Day 4: Jokulsarlon Glacier Lagoon / Vik / Reykjavik",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.070309,
+          "city_name": "Jokulsarlon",
+          "longitude": -16.21154,
+          "location_id": 16225,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 63.419341,
+          "city_name": "Vik",
+          "longitude": -19.009695,
+          "location_id": 16232,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 64.135796,
+          "city_name": "Reykjavik",
+          "longitude": -21.896657,
+          "location_id": 6079,
+          "country_code": "IS"
+        }
+      ],
+      "description": "This morning, visit one of Iceland's undisputed highlights: the Jokulsarlon glacier lagoon. Consider jumping on an optional cruise among the icebergs, or just take a walk along the shore down to Diamond Beach, where icebergs from the lagoon wash up on its black sands. Later today, head to Vik for lunch. With the sea on one side and high cliffs on the other, this dramatically positioned small village is Iceland's most southern mainland settlement. In the afternoon, complete your southerly loop by heading back to Reykjavik with a quick stop at Seljalandsfoss on your way. On arrival in Reykjavik, join your local leader for a short guided walk of the capital to visit the old harbour, city centre and snap some photos of Hallgrimskirkja church. The evening is free for you to enjoy all the capital has to offer, so why not get your group together for dinner! Perhaps, stop in Reykjavik`s most famous hot dog stand B\u00e6jarins Beztu Pylsur on the main square or head over to one of the many bars in town serving Icelandic craft beers."
+    },
+    {
+      "order": 5,
+      "title": "Day 5: Reykjavik",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.135796,
+          "city_name": "Reykjavik",
+          "longitude": -21.896657,
+          "location_id": 6079,
+          "country_code": "IS"
+        }
+      ],
+      "description": "With no activities planned for today, it\u2019s time to say 'sjaumst' to your group leader and fellow travellers. That doesn\u2019t mean your adventure has to come to an end! If you\u2019d like to spend more time in Reykjavik and surrounds, we\u2019ll be happy to book additional accommodation (subject to availability). What happens next is up to you \u2013 maybe a snorkelling adventure in the Silfra Fissure or a soak in the famous Blue Lagoon."
+    }
+  ],
+  "tour_name": "Iceland Express",
+  "start_city": {
+    "latitude": 64.135796,
+    "city_name": "Reykjavik",
+    "longitude": -21.896657,
+    "location_id": 6079,
+    "country_code": "IS"
+  },
+  "tour_types": [
+    {
+      "type_id": 6,
+      "group_id": 24,
+      "type_name": "Coach / Bus",
+      "group_name": "Transport Types"
+    },
+    {
+      "type_id": 77,
+      "group_id": 11,
+      "type_name": "In-depth Cultural",
+      "group_name": "Adventure Styles"
+    },
+    {
+      "type_id": 164,
+      "group_id": 26,
+      "type_name": "Family",
+      "group_name": "Tour Demographics"
+    },
+    {
+      "type_id": 372,
+      "group_id": 1,
+      "type_name": "Group",
+      "group_name": "Group Type"
+    },
+    {
+      "type_id": 373,
+      "group_id": 2,
+      "type_name": "Fully Guided",
+      "group_name": "Guide Type"
+    }
+  ],
+  "description": "Want a big adventure in a short amount of time? Travel to Iceland and explore the ancient land of Vikings and volcanoes on this five-day trip. Traverse the Golden Circle and marvel at the explosive power of the Geysir Geothermal Area and Gulfoss waterfall. Walk the black sand beaches of the Jokulsarlon lagoon and decide whether take an optional walk on the mighty Myrdalsjokull glacier. This fast-paced adventure focuses on the natural, untamed beauty of Iceland \u2013 taking you straight to the heart of the action with a local leader by your side.<br /><br />The destinations visited on this trip can be cold throughout the year, especially between November and April. Please bring appropriate clothing for adverse weather conditions. There may be the rare occasion where your leader has to alter the itinerary and activities due to the weather. In this case an alternative will be offered.\r\n\r\nDue to the remote locations we visit, there are a few long drives on this trip. This is a great opportunity to enjoy the scenery and spend some time getting to know the other members of your group. On this trip we are travelling in our own private minibus with complimentary wi-fi.\r\n\r\nAs accommodation on this trip is twin or multishare, single travellers will share a room with other travellers of the same gender. Twin-share, quad-share and multishare bunk accommodation may be used depending on the season and the make-up of the group. A single supplement is not available on this trip. Please also be aware that many guesthouses in Iceland offer shared bathrooms rather than ensuite facilities. Rooms in Iceland can be small, and at times you may be accommodated a short walk away from the main building.",
+  "start_point": {},
+  "destinations": {
+    "cities": [
+      {
+        "latitude": 64.135796,
+        "city_name": "Reykjavik",
+        "longitude": -21.896657,
+        "location_id": 6079,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 63.532222,
+        "city_name": "Skogafoss",
+        "longitude": -19.511033,
+        "location_id": 20258,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 63.74999,
+        "city_name": "Hvolsvollur",
+        "longitude": -20.233984,
+        "location_id": 12536,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 63.64673,
+        "city_name": "Myrdalsjokull",
+        "longitude": -19.130282,
+        "location_id": 31662,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.070309,
+        "city_name": "Jokulsarlon",
+        "longitude": -16.21154,
+        "location_id": 16225,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 63.419341,
+        "city_name": "Vik",
+        "longitude": -19.009695,
+        "location_id": 16232,
+        "country_code": "IS"
+      }
+    ],
+    "countries": [
+      {
+        "location_id": 77,
+        "country_code": "IS",
+        "country_name": "Iceland",
+        "currency_code": "ISK",
+        "currency_name": "Iceland Krona",
+        "electricity_outlets": [
+          "C",
+          "E",
+          "F"
+        ]
+      }
+    ],
+    "natural_destinations": [
+      {
+        "type": "region",
+        "latitude": 64.09713912311825,
+        "longitude": -17.765290484547556,
+        "location_id": 1000061,
+        "country_code": "IS",
+        "natural_destination_name": "Iceland South Coast"
+      },
+      {
+        "type": "region",
+        "latitude": 64.19559821518635,
+        "longitude": -18.0903256878859,
+        "location_id": 1000062,
+        "country_code": "IS",
+        "natural_destination_name": "South Iceland"
+      }
+    ]
+  },
+  "reviews_count": 19,
+  "max_group_size": 16,
+  "guide_languages": [
+    1
+  ],
+  "departure_months": [
+    {
+      "year": 2024,
+      "month": 5
+    },
+    {
+      "year": 2024,
+      "month": 6
+    },
+    {
+      "year": 2024,
+      "month": 7
+    },
+    {
+      "year": 2024,
+      "month": 8
+    },
+    {
+      "year": 2024,
+      "month": 9
+    },
+    {
+      "year": 2025,
+      "month": 5
+    },
+    {
+      "year": 2025,
+      "month": 6
+    },
+    {
+      "year": 2025,
+      "month": 7
+    },
+    {
+      "year": 2025,
+      "month": 8
+    },
+    {
+      "year": 2025,
+      "month": 9
+    }
+  ],
+  "tour_length_days": 5,
+  "is_instant_confirmable": true,
+  "has_machine_translated_content": false,
+  "reviews": [
+    "It was very informative. The sites spectacular.",
+    "It was an amazing trip. Our guide Stefan made it a wonderful adventure. Beautiful picturesque landscapes! It was great to sit back and just enjoy it while Stefan drove and organized our days according to weather so we got the best experience.",
+    "Perfect opportunity to see the South of Iceland with ease. Margret was a great guide and everything ran perfectly. Most of all I met a wonderful group of people who I\u2019m looking forward to keeping in touch with!",
+    "This tour is highly recommended as it provides an excellent taste of beautiful Iceland. Our tour guide, Vilhjalmur, was informative and a pleasure to interact with.",
+    "The tour was great! Our tour guide Jonas went above and beyond to make us feel welcomed, safe, and comfortable. I would recommend this tour to anyone who wants to have a quick glimpse of key spots in Iceland in a short time. We were also very lucky to get a wonderful group of fellow travelers. People matter!",
+    "Great value for once in a lifetime of experiences in other worldly environments. You\u2019d pay much more for the same trip even with the same tour operator.",
+    "Paulina was excellent in all she told us, planned for us, just excellent in everything",
+    "Good trip, good guide",
+    "Loved your country. Our guide , Pall. was extremely knowledgeable and presented information in great story form. Definitely want to return for more.",
+    "Excellent trip that fit all the highlights of Iceland into 3 days, from glacier hikes to lagoon rides and lava fields, while not feeling rushed. Note most excursions are optional add ons. The free day on either side of the driving days was great as we were able to explore more. Tour guide was very knowledgeable, friendly and passionate about Iceland. The small size of the tour was great as we got to know each other and become good mates over the few days. Highly recommend this tour for those wanting to see as much of Iceland in a few days."
+  ],
+  "tour_url": "https://www.tourradar.com/t/91647"
+}

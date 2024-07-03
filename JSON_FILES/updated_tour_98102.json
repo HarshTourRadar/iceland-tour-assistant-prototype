@@ -1,0 +1,464 @@
+{
+  "codes": [
+    "ICE & WGR-4"
+  ],
+  "budget": "comfort",
+  "images": [
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/98102_5e68f30e8b720.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/98102_5e68f30e8b720.jpg",
+      "location_name": "Antarctica"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/98102_5e68f30e8b726.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/98102_5e68f30e8b726.jpg",
+      "location_name": "Ilulissat Icefjord"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/98102_5e68f30e8b729.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/98102_5e68f30e8b729.jpg",
+      "location_name": "Ilulissat Icefjord"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/98102_5e68f30e8b72c.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/98102_5e68f30e8b72c.jpg",
+      "location_name": "Geysir"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/98102_5e68f30e8b72e.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/98102_5e68f30e8b72e.jpg",
+      "location_name": "Gullfoss"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/98102_5e68f30e8b731.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/98102_5e68f30e8b731.jpg",
+      "location_name": "Hubbard Glacier"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/98102_5e68f30e8b733.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/98102_5e68f30e8b733.jpg",
+      "location_name": "Geysir"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/98102_5e68f30e8b735.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/98102_5e68f30e8b735.jpg",
+      "location_name": "Blue Lagoon, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/98102_5e68f30e8b737.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/98102_5e68f30e8b737.jpg",
+      "location_name": "\u00deingvellir National Park"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/98102_5e68f30e8b73a.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/98102_5e68f30e8b73a.jpg",
+      "location_name": "Greenland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/map/1500x800/98102_0afa.png",
+      "type": "map",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/map/200x200/98102_0afa.png",
+      "location_name": "Reykjavik"
+    }
+  ],
+  "locale": "en_US",
+  "ratings": {
+    "operator": 4.5
+  },
+  "tour_id": 98102,
+  "end_city": {
+    "latitude": 63.975961,
+    "city_name": "Keflavik",
+    "longitude": -22.631836,
+    "location_id": 13095,
+    "country_code": "IS"
+  },
+  "language": "en",
+  "operator": {
+    "id": 3166,
+    "name": "GJ Travel"
+  },
+  "services": {
+    "guide": [
+      {
+        "description": "<ul>  <li>Guided Golden Circle tour in Iceland</li>  <li>Local guide in Greenland</li></ul>",
+        "is_included": true
+      }
+    ],
+    "meals": [
+      {
+        "description": "<ul>  <li>Daily breakfasts</li>  <li>Welcome & farewell dinner at Hotel Arctic</li>  <li>Lunch/dinner on boat trip to Eqi glacier\u00a0</li></ul>",
+        "is_included": true
+      }
+    ],
+    "others": [
+      {
+        "description": "<ul>  <li>Bus to/from Blue Lagoon (seat-in-coach) including entrance fee & towel\u00a0</li>  <li>3 hours easy hike to the old Sermermiut settlement at the Icefiord including refreshments\u00a0</li>  <li>3 hours midnight sailing among the icebergs including refreshments\u00a0</li>  <li>6-7 hours boat trip to Eqi glacier and Inuit settlement Ataa including lunch and refreshments</li></ul>",
+        "is_included": true
+      }
+    ],
+    "flights": [
+      {
+        "description": "<ul>  <li>Return flight Keflavik-Ilulissat-Keflavik including airport taxes</li></ul>",
+        "is_included": true
+      }
+    ],
+    "insurance": [
+      {
+        "is_included": false
+      }
+    ],
+    "transport": [
+      {
+        "description": "<ul>  <li>Airport transfers</li>  <li>Return flight Keflavik-Ilulissat-Keflavik, including airport taxes</li></ul>",
+        "is_included": true
+      }
+    ],
+    "accommodation": [
+      {
+        "description": "<ul>  <li>Iceland: 4x nights at a 3- or 4-star hotel in Reykjavik</li>  <li>Greenland: 3x nights in 4-star Hotel Arctic, Ilulissat</li></ul>",
+        "is_included": true,
+        "accommodations": [
+          {
+            "type": "hotel"
+          }
+        ]
+      }
+    ]
+  },
+  "age_range": {
+    "strict": {
+      "max_age": 99,
+      "min_age": 12
+    }
+  },
+  "end_point": {},
+  "is_active": true,
+  "itinerary": [
+    {
+      "order": 0,
+      "title": "Day 1: Welcome to Iceland",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.135796,
+          "city_name": "Reykjavik",
+          "longitude": -21.896657,
+          "location_id": 6079,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 63.975961,
+          "city_name": "Keflavik",
+          "longitude": -22.631836,
+          "location_id": 13095,
+          "country_code": "IS"
+        }
+      ],
+      "description": "<p>Individual transfer by Flybus shuttle bus from Keflav\u00edk International Airport to your accommodation in Reykjav\u00edk, where you spend two nights. Today you may explore Iceland\u2019s capital city on your own if time allows.</p>\n<p><br></p>\n<p>Overnight location:</p>\n<p>Fossh\u00f3tel Bar\u00f3n (3*) / Fossh\u00f3tel Reykjav\u00edk (4*) or similar hotels, Reykjav\u00edk. Dinner is on your own.</p>"
+    },
+    {
+      "order": 1,
+      "title": "Day 2: The Golden Circle",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.255857,
+          "city_name": "Thingvellir National Park",
+          "longitude": -21.130362,
+          "location_id": 16219,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 64.327751,
+          "city_name": "Gullfoss",
+          "longitude": -20.121333,
+          "location_id": 16224,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 64.310372,
+          "city_name": "Geysir",
+          "longitude": -20.302361,
+          "location_id": 37792,
+          "country_code": "IS"
+        }
+      ],
+      "description": "<p>Iceland is spectacular, and so is the Golden Circle Route. The first stop is Thingvellir National Park, the beautiful site of Iceland\u2019s first parliament and the place where the Eurasian and North American tectonic plates meet and move apart. There is a widening fissure in the ground where the planet opens up. The next stop is the Gullfoss waterfall that tumbles 34 meters into the Hv\u00edt\u00e1 river. Nearby we explore the Geysir geothermal fields with a variety of hot springs and bubbling pools. The sheer power of water and steam erupting from the ground makes you realise how alive the ground is beneath our feet. Trip duration: 8 hours</p>\n<p><br></p>\n<p>Overnight location:</p>\n<p>Fossh\u00f3tel Bar\u00f3n (3*) / Fossh\u00f3tel Reykjav\u00edk (4*) or similar hotels, Reykjav\u00edk.</p>\n<p>Meals included: Breakfast</p>"
+    },
+    {
+      "order": 2,
+      "title": "Day 3: Reykjavik - Ilulissat, city walk in Ilulisat & sunset cruise in the Icefiord",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 69.21667,
+          "city_name": "Ilulissat",
+          "longitude": -51.1,
+          "location_id": 17189,
+          "country_code": "GL"
+        }
+      ],
+      "description": "<p>Private airport transfer to Keflav\u00edk International Airport for your 3-hour flight to Ilulissat, Greenland. Transfer to 4-star Hotel Arctic. After the welcome meeting with your local guide, enjoy a guided city walk of Ilulissat. Afterwards, you have some time to explore the town, visit the local museum and observe Greenlandic life at the always busy harbour. Welcome dinner (2-course) is included at Hotel Arctic.</p>\n<p>Around 22:00, depart for a sunset cruise to the famous Ilulissat Icefiord, the world\u2019s largest ice sculpture park. The experience is overwhelming; the lights and colours constantly change. Enjoy a late drink on \u201cthe real rocks\u201d. The tour duration is about 3 hours. Dress warmly.</p>\n<p>(Note: The season for midnight sun is approx. May 22-Jul 24. Outside this season, the excursion is operated as an evening cruise with the beautiful sunset reflecting over the icebergs).</p>\n<p>Overnight location:</p>\n<p>Hotel in Ilulissat</p>\n<p>Meals included: Breakfast&nbsp;</p>"
+    },
+    {
+      "order": 3,
+      "title": "Day 4: Boat trip to Eqi - the calving glacier & Rodebay - hunter's village",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 69.21667,
+          "city_name": "Ilulissat",
+          "longitude": -51.1,
+          "location_id": 17189,
+          "country_code": "GL"
+        }
+      ],
+      "description": "<p>Breakfast at the hotel. Early morning departure for the one-day boat trip to Eqi \u2013 the calving glacier. The Eqi glacier runs into the fjord 80 km north of Ilulissat and is one of the most beautiful places in Greenland. It is possible to get very close to the 5-km wide glacier front and experience huge pieces of ice breaking off. The sound of an active calving glacier is quite remarkable, while the sight of icebergs toppling into the water is breathtaking. Afterwards, we continue to the small settlement of Oqaatsut/Rodebay. The local population of about 40 people is dependent on fishing and hunting. You experience an entirely different world compared to the nearby town of Ilulissat. Guided walk through the village before enjoying a local meal at the old trading station. For hundreds of years, Oqaatsut/Rodebay was a stopover place for Dutch whalers, who dragged the huge whales onto land here in the old village. The village, which lies in a beautiful natural setting just 15 km north of Ilulissat, has its school, church, shop and a single restaurant, \u201cH8\u201d, which serves excellent meals in the old colonial building. Tour duration: about 7-8 hours.</p>\n<p>Overnight location:</p>\n<p>Hotel in Ilulissat</p>\n<p>Meals included: Breakfast</p>"
+    },
+    {
+      "order": 4,
+      "title": "Day 5: Inuit Settlement at the Ilulissat Icefiord",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 69.21667,
+          "city_name": "Ilulissat",
+          "longitude": -51.1,
+          "location_id": 17189,
+          "country_code": "GL"
+        }
+      ],
+      "description": "<p>Breakfast at the hotel. By bus as far as the road goes. Guided walking tour to the old Inuit settlement Sermermiut located on the famous Ilulissat Icefiord inscribed on the UNESCO\u2019s world heritage list in 2004. The ancient settlement of Sermermiut, 1.5 km south of the town, is surrounded by Ilulissat\u2019s beautiful icebergs. Various Inuit cultures have lived here over the past 4,000 years, and you can still see remains from ancient times. Learn about local history and customs before Europeans arrived. See plots settled for thousands of years and admire the views across the majestic icebergs. Please wear proper boots or hiking boots. The hiking distance is about 3 km (1,9 mls) round-trip; hiking time is about 1 hour. Terrain: mainly track bridge and a bit of uneven nature and rocky trail. The tour duration is about 3 hours.</p>\n<p>After the hike you will be taken to a local family for a home visit. These are locals opening their homes to you, the latest gossip is shared over a cup of coffee. You will learn about life of the locals isolated from the rest of the world.</p>\n<p>Overnight location:</p>\n<p>Hotel in Ilulissat</p>\n<p>Meals included: Breakfast</p>"
+    },
+    {
+      "order": 5,
+      "title": "Day 6: Ilulissat - Reykjavik",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.135796,
+          "city_name": "Reykjavik",
+          "longitude": -21.896657,
+          "location_id": 6079,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 63.975961,
+          "city_name": "Keflavik",
+          "longitude": -22.631836,
+          "location_id": 13095,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 69.21667,
+          "city_name": "Ilulissat",
+          "longitude": -51.1,
+          "location_id": 17189,
+          "country_code": "GL"
+        }
+      ],
+      "description": "<p>Breakfast at the hotel. Spend some time in the morning exploring the town of Ilulissat and last-minute Greenland shopping. The short Arctic adventure has ended, and you return by flight to Keflav\u00edk, Iceland. Private airport transfer to Reykjavik to your accommodation. Stay two nights in a 3 or 4-star hotel in Reykjavik, Iceland.</p>\n<p><br></p>\n<p>Overnight location:</p>\n<p>Fossh\u00f3tel Bar\u00f3n (3*) / Fossh\u00f3tel Reykjav\u00edk (4*) or similar hotels, Reykjav\u00edk.</p>\n<p>Meals included: Breakfast</p>"
+    },
+    {
+      "order": 6,
+      "title": "Day 7: Blue Lagoon & Reykjavik",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.135796,
+          "city_name": "Reykjavik",
+          "longitude": -21.896657,
+          "location_id": 6079,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 63.879233,
+          "city_name": "Blue Lagoon",
+          "longitude": -22.444877,
+          "location_id": 17722,
+          "country_code": "IS"
+        }
+      ],
+      "description": "<p>Depart by bus (no guide) and drive through rough lava fields to the Blue Lagoon, where you can relax in its rejuvenating geothermal water. The water is rich in minerals and believed to have healing powers. The afternoon is free at leisure to explore Reykjavik, Iceland\u2019s capital, or enjoy an optional spa treatment at the Blue Lagoon.</p>\n<p><br></p>\n<p>Overnight location:</p>\n<p>Fossh\u00f3tel Bar\u00f3n (3*) / Fossh\u00f3tel Reykjav\u00edk (4*) or similar hotels, Reykjav\u00edk.</p>\n<p>Meals included: Breakfast</p>"
+    },
+    {
+      "order": 7,
+      "title": "Day 8: Departure Home",
+      "duration": 1,
+      "description": "<p>Individual transfer by Flybus shuttle bus from your accommodation in Reykjavik to Keflavik International Airport.</p>\n<p><br></p>\n<p>Meals included: Breakfast at the hotel</p>"
+    }
+  ],
+  "tour_name": "Highlights of Iceland & Greenland - 8 days",
+  "start_city": {
+    "latitude": 63.975961,
+    "city_name": "Keflavik",
+    "longitude": -22.631836,
+    "location_id": 13095,
+    "country_code": "IS"
+  },
+  "tour_types": [
+    {
+      "type_id": 14,
+      "group_id": 4,
+      "type_name": "Active",
+      "group_name": "Nature & Adventure"
+    },
+    {
+      "type_id": 372,
+      "group_id": 1,
+      "type_name": "Group",
+      "group_name": "Group Type"
+    },
+    {
+      "type_id": 374,
+      "group_id": 2,
+      "type_name": "Partially Guided",
+      "group_name": "Guide Type"
+    },
+    {
+      "type_id": 377,
+      "group_id": 3,
+      "type_name": "Easy",
+      "group_name": "Physical rating type"
+    },
+    {
+      "type_id": 383,
+      "group_id": 11,
+      "type_name": "Explorer",
+      "group_name": "Adventure Styles"
+    },
+    {
+      "type_id": 403,
+      "group_id": 29,
+      "type_name": "Private Room",
+      "group_name": "Solo Travelers"
+    }
+  ],
+  "description": "<p>Discover South Iceland\u2019s most iconic attractions, including Gullfoss waterfall and Geysir hot springs, during a 4-night stay in Iceland\u2019s capital. Then, bathe in the famous Blue Lagoon for a holiday of extreme contrasts and explore Reykjavik, Iceland\u2019s cosmopolitan capital city. We offer both a 3-star and a 4-star hotel option in Reykjav\u00edk.</p>\n<p><br></p>\n<p>A 4-day visit to Greenland brings you to a world of giant icebergs, hauling husky dogs and fascinating Inuit culture. Stay three nights in Ilulissat, West Greenland, which is popular for visitors searching for an ideal mix of authentic Inuit culture and a modern society that pulses under the magical light of the midnight sun. Located on the west coast of Greenland, above the Arctic Circle, Greenland\u2019s famous Ilulissat Icefiord is the sea mouth of Sermeq Kujalleq, one of the many glaciers through which the Greenland ice cap reaches the sea.</p>",
+  "start_point": {},
+  "destinations": {
+    "cities": [
+      {
+        "latitude": 63.975961,
+        "city_name": "Keflavik",
+        "longitude": -22.631836,
+        "location_id": 13095,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.135796,
+        "city_name": "Reykjavik",
+        "longitude": -21.896657,
+        "location_id": 6079,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.255857,
+        "city_name": "Thingvellir National Park",
+        "longitude": -21.130362,
+        "location_id": 16219,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.327751,
+        "city_name": "Gullfoss",
+        "longitude": -20.121333,
+        "location_id": 16224,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.310372,
+        "city_name": "Geysir",
+        "longitude": -20.302361,
+        "location_id": 37792,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 69.21667,
+        "city_name": "Ilulissat",
+        "longitude": -51.1,
+        "location_id": 17189,
+        "country_code": "GL"
+      },
+      {
+        "latitude": 63.879233,
+        "city_name": "Blue Lagoon",
+        "longitude": -22.444877,
+        "location_id": 17722,
+        "country_code": "IS"
+      }
+    ],
+    "countries": [
+      {
+        "location_id": 77,
+        "country_code": "IS",
+        "country_name": "Iceland",
+        "currency_code": "ISK",
+        "currency_name": "Iceland Krona",
+        "electricity_outlets": [
+          "C",
+          "E",
+          "F"
+        ]
+      },
+      {
+        "location_id": 227,
+        "country_code": "GL",
+        "country_name": "Greenland",
+        "currency_code": "DKK",
+        "currency_name": "Danish Krone",
+        "electricity_outlets": [
+          "C",
+          "E",
+          "F",
+          "K"
+        ]
+      }
+    ],
+    "natural_destinations": [
+      {
+        "type": "region",
+        "latitude": 64.19559821518635,
+        "longitude": -18.0903256878859,
+        "location_id": 1000062,
+        "country_code": "IS",
+        "natural_destination_name": "South Iceland"
+      }
+    ]
+  },
+  "reviews_count": 0,
+  "max_group_size": 25,
+  "guide_languages": [
+    1
+  ],
+  "departure_months": [
+    {
+      "year": 2024,
+      "month": 6
+    },
+    {
+      "year": 2024,
+      "month": 7
+    },
+    {
+      "year": 2024,
+      "month": 8
+    }
+  ],
+  "tour_length_days": 8,
+  "is_instant_confirmable": true,
+  "has_machine_translated_content": false,
+  "reviews": [],
+  "tour_url": "https://www.tourradar.com/t/98102"
+}

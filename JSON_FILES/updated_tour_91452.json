@@ -1,0 +1,510 @@
+{
+  "codes": [
+    "BIPK"
+  ],
+  "budget": "luxury",
+  "images": [
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91452_8c3b267f.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91452_8c3b267f.jpg",
+      "location_name": "Geysir"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91452_ff979375.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91452_ff979375.jpg",
+      "location_name": "Reykjavik"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91452_e8ca3fa2.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91452_e8ca3fa2.jpg",
+      "location_name": "Reykjavik"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91452_0f882358.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91452_0f882358.jpg",
+      "location_name": "Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91452_6a87a478.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91452_6a87a478.jpg",
+      "location_name": "Siglufj\u00f6r\u00f0ur, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91452_4ea48e35.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91452_4ea48e35.jpg",
+      "location_name": "V\u00edk \u00ed M\u00fdrdal, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91452_d4e9aaeb.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91452_d4e9aaeb.jpg",
+      "location_name": "Kirkjufell"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91452_5587bf90.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91452_5587bf90.jpg",
+      "location_name": "Deildartunguhver"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91452_41db0cff.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91452_41db0cff.jpg",
+      "location_name": "Go\u00f0afoss Waterfall, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/91452_feccbb68.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/91452_feccbb68.jpg",
+      "location_name": "J\u00f6kuls\u00e1rl\u00f3n Beach"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/map/1500x800/91452_587b.png",
+      "type": "map",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/map/200x200/91452_587b.png",
+      "location_name": "Iceland"
+    }
+  ],
+  "locale": "en_US",
+  "ratings": {
+    "operator": 4.4
+  },
+  "tour_id": 91452,
+  "end_city": {
+    "latitude": 64.135796,
+    "city_name": "Reykjavik",
+    "longitude": -21.896657,
+    "location_id": 6079,
+    "country_code": "IS"
+  },
+  "language": "en",
+  "operator": {
+    "id": 1084,
+    "name": "Intrepid Premium"
+  },
+  "services": {
+    "guide": [
+      {
+        "description": "<p>All group trips are accompanied by one of our group leaders. The aim of the group leader is to take the hassle out of your travels and to help you have the best trip possible. Premium leaders are Intrepid\u2019s most experienced, with in-depth knowledge and extensive local networks to make it a trip of a lifetime.<br><br>Your leader will provide information on the places you are travelling through, offer suggestions for things to do and see, recommend great local eating venues and introduce you to our local friends. While not being guides in the traditional sense, you can expect them to have a broad general knowledge of the places visited on the trip, including historical, cultural, religious, and social aspects. At Intrepid we aim to support local guides who have specialised knowledge of the regions we visit.\u00a0When not already included in your trip, your leader will be able to recommend a local guide service who can share more detailed or specialised information at specific sites should you be interested in delving deeper.<br><br>All Intrepid group trips in Iceland are accompanied by one of our group leaders, who will also be the driver.</p>",
+        "is_included": true
+      }
+    ],
+    "meals": [
+      {
+        "description": "8 breakfasts, 5 dinners",
+        "is_included": true,
+        "food_options": [
+          "vegetarian",
+          "vegan",
+          "halal",
+          "kosher",
+          "meat"
+        ]
+      }
+    ],
+    "flights": [
+      {
+        "is_included": false
+      }
+    ],
+    "insurance": [
+      {
+        "is_included": false
+      }
+    ],
+    "transport": [
+      {
+        "description": "<p>On this trip we are travelling in our own private minibus as this allows us to reach some more off the beaten path destinations and gives us flexibility which would not be possible by public transport. Please note that there are some long travel days and some rough stretches on gravelly and windy roads. On some days we depart early in the morning to ensure we optimise our time. All our vehicles in Iceland have complimentary Wi-Fi.</p><p>Private Vehicle (Ford Transit van or similar)</p>",
+        "is_included": true
+      }
+    ],
+    "accommodation": [
+      {
+        "description": "<p>The style of accommodation indicated in the day-to-day itinerary is a guideline only and may change. On some occasions, alternative arrangements may need to be made due to the lack of availability of rooms in our preferred accommodation. In these cases, we will use a similar standard of accommodation.<br><br>Throughout the trip, we request that our properties prepare rooms in time for our arrival, especially if we're arriving prior to normal check-in time. However, this isn't always possible which means we won't be able to check-in immediately on arrival at some hotels. Instead, we can store our luggage and explore our new destination or on some trips, have use of shared day rooms until all rooms are available.<br><br><b>OCCASIONAL ALTERNATIVE ACCOMMODATION:</b><br><br>The style of accommodation indicated in the day-to-day itinerary is a guideline. On rare occasions, alternative arrangements may need to be made due to the lack of availability of rooms in our usual accommodation. A similar standard of accommodation will be used in these instances.<br><br><b>TWIN SHARE BASIS:</b><br><br>Accommodation on this trip is on a twin/multishare basis. We pair up solo travellers with another traveller of the same gender as per the gender marker on each of their passports. Please note there may be times where facilities will be shared rather than ensuite and rare occasions when you share a room with passengers travelling on different Intrepid trips than your own. <br><br><b>CHECK-IN TIME:</b><br><br>Throughout the trip we request that our hotels prepare rooms in time for our arrival, especially if we're arriving prior to normal check-in time. However this isn't always possible which means we won't be able to check-in immediately on arrival at some hotels. Instead, we can store our luggage and explore our new destination.<br><br><b>PRE/POST TRIP ACCOMMODATION:</b><br><br>If you've purchased pre-trip or post-trip accommodation (if available), you may be required to change rooms from your trip accommodation for these extra nights.<br><br><b>FACILITIES:</b><br><br>Your accommodation may not always have private en suite facilities or air-conditioning. European hotels generally don't provide kettles or fridges.</p><p><p>Comfortable hotel (7 nights), Feature stay (1 night)</p></p>",
+        "is_included": true,
+        "accommodations": [
+          {
+            "type": "hotel",
+            "nights": 7
+          }
+        ]
+      }
+    ]
+  },
+  "age_range": {
+    "strict": {
+      "max_age": 99,
+      "min_age": 15
+    }
+  },
+  "end_point": {},
+  "is_active": true,
+  "itinerary": [
+    {
+      "order": 1,
+      "title": "Day 1: Reykjavik",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.135796,
+          "city_name": "Reykjavik",
+          "longitude": -21.896657,
+          "location_id": 6079,
+          "country_code": "IS"
+        }
+      ],
+      "description": "Welcome to Iceland! Your adventure begins in Reykjavik, Iceland's quirky capital. You will be transferred from the airport to your hotel, where you will meet your group and tour leader for a 6pm welcome meeting. If you arrive early, take a stroll and acquaint yourself with the world's northernmost capital. Perhaps visit the National Museum to see the permanent exhibition on the history of Iceland. After your welcome meeting, head out with your leader and small group to get to know Reykjavik\u2019s flourishing food scene. Enjoy dinner at one of the city\u2019s fantastic local restaurants and learn about Icelandic produce and cuisine."
+    },
+    {
+      "order": 2,
+      "title": "Day 2: Thingvellir National Park / Borgarfjordur / Snaefellsnes Peninsula",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.255857,
+          "city_name": "Thingvellir National Park",
+          "longitude": -21.130362,
+          "location_id": 16219,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 65.77416,
+          "city_name": "Borgarfj\u00f6r\u00f0ur",
+          "longitude": -23.2148,
+          "location_id": 42548,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 64.818738,
+          "city_name": "Snaefellsjokull National Park",
+          "longitude": -23.882521,
+          "location_id": 16244,
+          "country_code": "IS"
+        }
+      ],
+      "description": "Today you\u2019ll board a private vehicle and drive to Thingvellir National Park (Parliament Plains) \u2013 your leader will explain how this stunning spot is both the original location of Iceland\u2019s first parliament from AD930 and a geological phenomenon. From here enter the Borgarfjordur area and visit the spectacular waterfalls of Hraunfossar (Lava waterfalls) and Barnafossar (Children\u2019s waterfalls). Continue to Deildartunguhver \u2013 Europe\u2019s hottest water spring. In the afternoon head to your overnight stay in the southern part of the Snaefellsnes Peninsula. Once settled in, meet up with your group for an included dinner."
+    },
+    {
+      "order": 3,
+      "title": "Day 3: Snaefellsnes Peninsula / Skagafjordur",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.818738,
+          "city_name": "Snaefellsjokull National Park",
+          "longitude": -23.882521,
+          "location_id": 16244,
+          "country_code": "IS"
+        }
+      ],
+      "description": "Today you will continue around the Snaefellsnes Peninsula and its magnificent glacier Snaefellsjokull, an icecap covering a dormant volcano underneath. Places you\u2019ll visit today include the small town of Budir, basaltic pebble beaches framed by strange lava formations, and Arnarstapi, where a short stroll along the coastal cliffs gives you access to the rich birdlife and other wonders of nature. Continue to the pretty town of Grundarfjordur, where you\u2019ll stop and meet a local artist by the name of Liston, who will show you his workshop. This is a great opportunity to admire his stone carving pieces and to find out about the life of a local artisan. You will also have a guided tour of the Glaumbaer Farm and Museum.\u00a0The farmhouse is built of turf, stones, and timber and dates back to the Age of the Settlements (900 AD).\r\nAfterwards, drive to Saudarkrokur in Iceland's north, located on beautiful Skagafjordur Fjord.\u00a0Here you will find the family-run Hotel Tindastoll, Iceland\u2019s oldest hotel and your home for the evening. You\u2019ll experience a part of Iceland\u2019s history as soon as you step through the door, and nods to the hotel\u2019s past are everywhere; from antique furniture to original architecture. Enjoy personal and friendly service, a delightful courtyard with a thermal hot tub and absolutely incredible surroundings."
+    },
+    {
+      "order": 4,
+      "title": "Day 4: Trollaskagi Peninsula / Akureyri / Husavik",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 65.68384,
+          "city_name": "Akureyri",
+          "longitude": -18.110619,
+          "location_id": 6080,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 66.044835,
+          "city_name": "Husavik",
+          "longitude": -17.338298,
+          "location_id": 22850,
+          "country_code": "IS"
+        }
+      ],
+      "description": "Drive around the picturesque Trollaskagi Peninsula and visit the small fishing town of Siglufjordur. Explore the compact town centre, dwarfed by towering mountains on three sides, and opening up to the fjord on its northern side. Further along the stunning coast you\u2019ll have the special opportunity to dip your toes in the Arctic Ocean and enjoy an Icelandic schnapps tasting, accompanied with some local delicacies. You group leader will offer you some specialties of the region \u2013 think shark, lamb\u2019s head, liver sausage and dried fish. They\u2019re not called delicacies for nothing! Continue to Hauganes, where you will getting to know the gentle giants of Iceland\u2019s waters on board a carbon neutral whale watching tour. Minke and humpback whales are commonly spotted in these parts, and the boat keeps a respectful distance from the whales, allowing you to observe them in their natural environment without disturbing or distressing them. You\u2019ll be joined on board by an expert whale watching guide who will help to spot these beautiful creatures while providing insight on their lives and habitats in Arctic waters. Continue to the town of Akureyri, Iceland's second town, where you will have an oriention walk. Perhaps visit the church \u2013 the unique building is an iconic symbol of the town. Next, drive to the mighty waterfall of Godafoss, also known as The Waterfall of the Gods, before continuing to your hotel in Husavik."
+    },
+    {
+      "order": 5,
+      "title": "Day 5: Husavik / Lake Myvatn / Egilsstadir",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 66.044835,
+          "city_name": "Husavik",
+          "longitude": -17.338298,
+          "location_id": 22850,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 65.60386,
+          "city_name": "Myvatn",
+          "longitude": -16.996104,
+          "location_id": 12538,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 65.266781,
+          "city_name": "Egilsstadir",
+          "longitude": -14.395094,
+          "location_id": 13804,
+          "country_code": "IS"
+        }
+      ],
+      "description": "Start the day with a journey to Lake Myvatn, one of the most interesting geological areas of the northern hemisphere. Visit a number of geological anomalies lining the lake\u2019s shoreline, including the lava labyrinth of Dimmuborgir and the pseudo-crater group at Skutustadir, and the boiling mud pots and sulphuric vents of Namaskard. Your leader will be on hand to explain how these natural wonders came to be. Drive via the highlands to your overnight stop at Egilsstadir."
+    },
+    {
+      "order": 6,
+      "title": "Day 6: East Fjords / Jokulsarlon",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.070309,
+          "city_name": "Jokulsarlon",
+          "longitude": -16.21154,
+          "location_id": 16225,
+          "country_code": "IS"
+        }
+      ],
+      "description": "This morning after breakfast, continue along the beautiful coastal region of Iceland's East Fjords, taking in spectacular views of the varied landscape as soaring mountains give way to deep fjords. If you are lucky you may even spot a seal or two. Drive to the famous Jokulsarlon Glacier Lagoon for an unforgettable boat tour on the milky blue waters. Get up close and personal with huge floating icebergs, originating from Vatnajokull, Europe\u2019s largest ice cap.\u00a0Make stops along the way at small but notable towns like Djupivogur, which became a member of the cittaslow movement in 2013 and is aiming to be the Happiest Town in Iceland.\r\nLater discover the Fosshotel Glacier Lagoon, your feature stay for this evening. This modern and contemporary hotel carefully considers its surroundings as spacious rooms with huge windows show off views of the mountains and sea, while stylish interiors reflect the colours of the world outside."
+    },
+    {
+      "order": 7,
+      "title": "Day 7: Skaftafell National Park / South Coast / Hella",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.070389,
+          "city_name": "Skaftafell",
+          "longitude": -16.974975,
+          "location_id": 12537,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 63.833327,
+          "city_name": "Hella",
+          "longitude": -20.400066,
+          "location_id": 17609,
+          "country_code": "IS"
+        }
+      ],
+      "description": "Visit Skaftafell National Park and walk to the tongue of the glacier of the same name. Drive over the black sands and lava formations caused by the Laki eruption of 1782-1783, an event that has shaped Iceland's history and culture. Visit the waterfalls of Seljarlandsfoss and Skogafoss then continue to your base for the evening near Hella."
+    },
+    {
+      "order": 8,
+      "title": "Day 8: Golden Circle / Reykjavik",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.135796,
+          "city_name": "Reykjavik",
+          "longitude": -21.896657,
+          "location_id": 6079,
+          "country_code": "IS"
+        }
+      ],
+      "description": "From Hella, drive to the geyser geothermal area for the spouting hot springs of Geysir (after which all other geysers were named) and Strokkur, the most reliable of the geysers, erupting every ten minutes, on average. Don\u2019t stand downwind if you don\u2019t want a hot shower! Then it\u2019s on to Gullfoss (the Golden Waterfall) where, on a sunny day, you can see rainbows shimmer in the spray above the waterfall. Next up take part in one of Iceland\u2019s most celebrated activities during a visit to the Blue Lagoon, a geothermal spa surrounded by a black lava field. Its warm waters are rich in minerals and silica mud, said to cleanse and soften the skin. Sit back and enjoy a relaxing soak against a remarkable mountain backdrop. Drive back to Reykjavik for a short tour with your leader to get to know the main sights of this eclectic city. The evening is free for you to explore the streets of Iceland\u2019s capital \u2013 you may like to join your group for a final dinner together to round off your adventure."
+    },
+    {
+      "order": 9,
+      "title": "Day 9: Reykjavik",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.135796,
+          "city_name": "Reykjavik",
+          "longitude": -21.896657,
+          "location_id": 6079,
+          "country_code": "IS"
+        }
+      ],
+      "description": "Your adventure comes to an end after breakfast. As there is not much time spent in Reykjavik on this trip, you may want to consider booking some additional days in the capital. If you wish to spend more time here, we\u2019ll be happy to organise additional accommodation (subject to availability)."
+    }
+  ],
+  "tour_name": "Premium Iceland",
+  "start_city": {
+    "latitude": 64.135796,
+    "city_name": "Reykjavik",
+    "longitude": -21.896657,
+    "location_id": 6079,
+    "country_code": "IS"
+  },
+  "tour_types": [
+    {
+      "type_id": 372,
+      "group_id": 1,
+      "type_name": "Group",
+      "group_name": "Group Type"
+    },
+    {
+      "type_id": 373,
+      "group_id": 2,
+      "type_name": "Fully Guided",
+      "group_name": "Guide Type"
+    },
+    {
+      "type_id": 377,
+      "group_id": 3,
+      "type_name": "Easy",
+      "group_name": "Physical rating type"
+    },
+    {
+      "type_id": 383,
+      "group_id": 11,
+      "type_name": "Explorer",
+      "group_name": "Adventure Styles"
+    }
+  ],
+  "description": "Explore the beautifully rugged landscapes of Iceland\u2019s western peninsulas with soaring coastal cliffs, centuries-old volcanic glaciers and idyllic waterfalls on a nine-day Premium adventure. Enjoy a boat cruise between icebergs at Glacier Lagoon, trek around vast waterside craters, visit local artisans in Grundarfjordur and charming fishing villages, and dip your toes in the Arctic Ocean. See the highlights of Iceland with expert local knowledge and time to explore \u2013 you\u2019ll get a true taste of this Northern European outpost.<br /><br />Iceland can be very cold at any time of year, so it's important to bring appropriate clothing. On the rare occasion that your leader has to alter the itinerary due to adverse weather, alternative activities will be offered.\r\n\r\nMany locations on this itinerary are remote, which means a few long drives of around 6 hours. This is a great opportunity to enjoy the scenery and spend some time getting to know your fellow travellers. Of course, you will stop frequently for photo opportunities.",
+  "start_point": {},
+  "destinations": {
+    "cities": [
+      {
+        "latitude": 64.135796,
+        "city_name": "Reykjavik",
+        "longitude": -21.896657,
+        "location_id": 6079,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.255857,
+        "city_name": "Thingvellir National Park",
+        "longitude": -21.130362,
+        "location_id": 16219,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 65.77416,
+        "city_name": "Borgarfj\u00f6r\u00f0ur",
+        "longitude": -23.2148,
+        "location_id": 42548,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.818738,
+        "city_name": "Snaefellsjokull National Park",
+        "longitude": -23.882521,
+        "location_id": 16244,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 65.68384,
+        "city_name": "Akureyri",
+        "longitude": -18.110619,
+        "location_id": 6080,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 66.044835,
+        "city_name": "Husavik",
+        "longitude": -17.338298,
+        "location_id": 22850,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 65.60386,
+        "city_name": "Myvatn",
+        "longitude": -16.996104,
+        "location_id": 12538,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 65.266781,
+        "city_name": "Egilsstadir",
+        "longitude": -14.395094,
+        "location_id": 13804,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.070309,
+        "city_name": "Jokulsarlon",
+        "longitude": -16.21154,
+        "location_id": 16225,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.070389,
+        "city_name": "Skaftafell",
+        "longitude": -16.974975,
+        "location_id": 12537,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 63.833327,
+        "city_name": "Hella",
+        "longitude": -20.400066,
+        "location_id": 17609,
+        "country_code": "IS"
+      }
+    ],
+    "countries": [
+      {
+        "location_id": 77,
+        "country_code": "IS",
+        "country_name": "Iceland",
+        "currency_code": "ISK",
+        "currency_name": "Iceland Krona",
+        "electricity_outlets": [
+          "C",
+          "E",
+          "F"
+        ]
+      }
+    ]
+  },
+  "reviews_count": 0,
+  "max_group_size": 12,
+  "guide_languages": [
+    1
+  ],
+  "departure_months": [
+    {
+      "year": 2024,
+      "month": 5
+    },
+    {
+      "year": 2024,
+      "month": 6
+    },
+    {
+      "year": 2024,
+      "month": 7
+    },
+    {
+      "year": 2024,
+      "month": 8
+    },
+    {
+      "year": 2024,
+      "month": 9
+    },
+    {
+      "year": 2025,
+      "month": 5
+    },
+    {
+      "year": 2025,
+      "month": 6
+    },
+    {
+      "year": 2025,
+      "month": 7
+    },
+    {
+      "year": 2025,
+      "month": 8
+    },
+    {
+      "year": 2025,
+      "month": 9
+    }
+  ],
+  "tour_length_days": 9,
+  "is_instant_confirmable": true,
+  "has_machine_translated_content": false,
+  "reviews": [],
+  "tour_url": "https://www.tourradar.com/t/91452"
+}

@@ -1,0 +1,346 @@
+{
+  "codes": [
+    "TSE"
+  ],
+  "budget": "comfort",
+  "images": [
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/62957_f56db3.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/62957_f56db3.jpg",
+      "location_name": "Landmannalaugar, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/62957_e082509c.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/62957_e082509c.jpg",
+      "location_name": "Landmannalaugar, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/62957_080f2114.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/62957_080f2114.jpg",
+      "location_name": "Landmannalaugar, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/62957_75e2228f.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/62957_75e2228f.jpg",
+      "location_name": "Mount Esja"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/62957_4378cf8d.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/62957_4378cf8d.jpg",
+      "location_name": "Ijen Crater, Indonesia"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/62957_1648f873.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/62957_1648f873.jpg",
+      "location_name": "Len\u00e7\u00f3is Maranhenses National Park"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/62957_c302ccf1.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/62957_c302ccf1.jpg",
+      "location_name": "Landmannalaugar, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/62957_97572751.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/62957_97572751.jpg",
+      "location_name": "Silfra Fissure"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/62957_a691e61b.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/62957_a691e61b.jpg",
+      "location_name": "Landmannalaugar"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/62957_d7cc3d68.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/62957_d7cc3d68.jpg",
+      "location_name": "Landmannalaugar, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/map/1500x800/62957_5c69.png",
+      "type": "map",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/map/200x200/62957_5c69.png",
+      "location_name": "Reykjavik"
+    }
+  ],
+  "locale": "en_US",
+  "ratings": {
+    "overall": 5.0,
+    "operator": 4.4
+  },
+  "tour_id": 62957,
+  "end_city": {
+    "latitude": 64.135796,
+    "city_name": "Reykjavik",
+    "longitude": -21.896657,
+    "location_id": 6079,
+    "country_code": "IS"
+  },
+  "language": "en",
+  "operator": {
+    "id": 398,
+    "name": "Exodus Travels"
+  },
+  "services": {
+    "guide": [
+      {
+        "description": "<p>Tour leader throughout</p>",
+        "is_included": true
+      }
+    ],
+    "meals": [
+      {
+        "description": "<p>All breakfasts, four lunches and four dinners are included.\r\n\r\nTypical meals when camping:\r\n\r\n \tBreakfast: Fresh fruit, yoghurt, porridge, muesli, bread, jam, tea/coffee\r\n \tLunch: Bread and soup, cheese, tuna, biscuits\r\n \tEvening meal: A combination of the following: meat (including Icelandic specialities such as smoked lamb), fish, pasta, beans, noodles, vegetables, and hot drinks. We will also have a few bars of chocolate, dried fruit, biscuits and some sweets to sustain us on the walks. Those who prefer evening drinks are advised to buy them in the duty-free upon arrival at the airport.\r\n\r\nDietary requirements: Vegetarians can be catered for, please advise at time of booking. As this is predominantly a camping trip, there is limited flexibility in camp. If you have specific dietary requirements, please ask at the time of booking to allow us to check with our local partners. Unfortunately, due to the remoteness of some locations, we are unable to cater for vegans.</p>",
+        "is_included": true,
+        "food_options": [
+          "vegetarian",
+          "vegan",
+          "meat"
+        ]
+      }
+    ],
+    "others": [
+      {
+        "description": "<p>All activities as listed</p>",
+        "is_included": true
+      }
+    ],
+    "transport": [
+      {
+        "description": "<p>We use a comfortable van or bus, ruggedly built to Icelandic standards and able to cope with most types of terrain, including fording glacial rivers. Airport transfers are on the Flybus service.</p>",
+        "is_included": true
+      }
+    ],
+    "accommodation": [
+      {
+        "description": "<p>The first and last nights are spent in Reykjavik. Here we usually use Hotel Klettur or the Storm Hotel, which both have comfortable rooms. As hotel availability in Reykjavik can be scarce during summer due to strong demand, we may occasionally use one hotel on the first night and a different hotel on the last night. If this is the case, any luggage you choose to leave in Reykjavik will be transferred from one hotel to the other for you.\r\n\r\nWhen camping, we usually stay at organised campsites with good facilities. Showers are available for a small fee \u2013 about 350 Icelandic kronas (US$2.60)\u00a0\u2013 at some and are included at others. Some also have facilities for washing clothes. Spacious two-person tents with sewn-in groundsheets and separate flysheets are supplied. We provide a dining tent with a table, campstools, and LED lamps. Please note, some campsites in Iceland cannot be prebooked, and are allocated on a \u2018first-come, first-served\u2019 basis. In busy periods, we may occasionally use campsites different to those outlined in the itinerary.\r\n\r\nSingle accommodation, including a single tent, is available on request.</p>",
+        "is_included": true
+      }
+    ]
+  },
+  "age_range": {
+    "strict": {
+      "max_age": 99,
+      "min_age": 16
+    },
+    "recommended": {
+      "max_age": 70,
+      "min_age": 30
+    }
+  },
+  "end_point": {},
+  "is_active": true,
+  "itinerary": [
+    {
+      "order": 1,
+      "title": "Day 1: Start Reykjavik",
+      "duration": 1,
+      "description": "After a Flybus transfer to our hotel, we begin with a briefing from the leader, usually at 6.30pm. Here you receive an outline of the week ahead and have the chance to ask any questions. After, our groups typically go out for dinner together."
+    },
+    {
+      "order": 2,
+      "title": "Day 2: Reykjavik to Landmannalaugar (breakfast,lunch,dinner)",
+      "duration": 1,
+      "description": "We transfer up to the unmistakable Landmannalaugar mountains. The drive will take approximately four hours as we head through the south of Iceland, up the Thjorsardalur valley towards Mount Hekla, an enormous volcano responsible for enormous destruction in centuries past. Here, we turn into the Highlands and the black volcanic desert of the Fjallabak area. The Fjallabak Nature Reserve is one of the most popular areas in Iceland for trekking with a landscape like nowhere else, from black volcanic plains to multicoloured rhyolite mountains. At the heart of all this are the Landmannalaugar mountains, where we pitch our camp before having lunch.\r\n\r\nTypically, most trips begin the Laugavegur Trail today; however, we take the opportunity to enjoy a daywalk in these unique surroundings.\r\n\r\nOur afternoon walk heads to the top of Blue Peak and across the black Laugahruna lava field. The hot pools originate in this lava field, which was created in 1477, the last known eruption in the area.\r\n\r\nThis area is believed to be the southern end of the Bardarbunga volcanic system. The last eruption in the Bardarbunga system was a fissure eruption in the northern end from 2014 to 2015. Some 93mi (150km) north of Landmannalaugar, it was the largest eruption in Iceland for more than 200 years, though luckily did not have the same impact on air travel as the more famous Eyafjallajokull eruption of 2010.\r\n\r\nOur guide will prepare the evening meal in our mess tent, though group members are expected to pitch in and help with food preparation and washing up."
+    },
+    {
+      "order": 3,
+      "title": "Day 3: Landmannalaugar to Alftavatn (breakfast,lunch,dinner)",
+      "duration": 1,
+      "description": "For the next two days, we cross the Torfajokull volcanic area (rhyolitic stratovolcano), which was formed by a series of subglacial volcanic eruptions. It is the largest rhyolitic area in Iceland, consisting of rolling rhyolite hills with numerous hot springs and sulphur vents.\r\n\r\nWe start by crossing the Laugahraun lava field to the slopes of Brennisteinsalda, known for its photogenic spectrum of colours. We take a short but very worthwhile detour to the top.\r\n\r\nEn route we pass the Storihver hot spring, cross the high plateau and enter the Hrafntinnusker area. Here steam rises from hundreds of vents\u00a0and our route passes numerous hot springs along the way.\r\n\r\nFrom Hrafntinnusker and across the Torfajokull Massif \u2013 the route meanders southwards and we hike past steaming hot springs and boiling mud pools before we start dropping down Jokultungur to the black volcanic plains west of the Myrdalsjokull glacier. The view is spectacular on a clear day with Myrdalsjokull and Eyjafjallaj\u00f6kull glaciers in the foreground and the black volcanic landscape between. We enter a totally different landscape of Palagonite ridges and peaks with black volcanic plains and big glacier rivers all around. Our aim for the day is Alftavatn lake where we pitch our tents once more."
+    },
+    {
+      "order": 4,
+      "title": "Day 4: Alftavatn to Emstrur (breakfast,lunch,dinner)",
+      "duration": 1,
+      "description": "We head further south towards Myrdalsjokull ice cap across the black volcanic landscape. There are several rivers in this area, the largest are bridged but the smaller ones are not. We make a detour just before we make it to our destination of the day, Emstrur, heading west for the Markarfljotsglufur canyon. The Markarkfljot glacial river has cut this canyon nearly 655ft (200m) deep and it is worth a visit. After the canyon, we have a short distance to Botnar in the Emstrur area, a small green oasis in the black volcanic desert."
+    },
+    {
+      "order": 5,
+      "title": "Day 5: Emstrur to Thorsmork (Basar) (breakfast,lunch,dinner)",
+      "duration": 1,
+      "description": "We start the day by crossing the bridge over the Emstrur River on our way to Thorsmork. We hike along the western edge of the Myrdalsjokull Ice Cap and leave the pitch-black volcanic area. Vegetation increases slowly and, eventually, we get to the lush birch-covered area of Thorsmork (Thor's woodland). Thorsmork valley is a beautiful place with magnificent glaciers, a river and wind-swept mountains. This area has been a favourite with local walkers for decades and it\u2019s easy to see why. We hike across the Thorsmork valley and over the Krossa glacial river (by bridge) and to our camp in Basar."
+    },
+    {
+      "order": 6,
+      "title": "Day 6: Glacier walk, return to Reykjavik (breakfast)",
+      "duration": 1,
+      "description": "Today we pack up ready to head back to Reykjavik. Before returning to the city, we go for a hike on Solheimajokull, an outlet glacier extending from the Myrdalsjokull icecap. We explore this wonderland of ice sculptures, crevasses, and long, narrow ridges. We strap on the crampons and get the ice axes before making our way up this massive ice flow. After the glacier walk, en route to Reykjavik we stop at Skogarfoss and Kvernufoss, two particularly photogenic waterfalls. On arrival in Reykjavik, we can check in and then head out for our final meal together. The leader can recommend or book a restaurant for the group."
+    },
+    {
+      "order": 7,
+      "title": "Day 7: End Reykjavik (breakfast)",
+      "duration": 1,
+      "description": "Those wishing to spend extra time in Reykjavik will find it time well spent as this busy city has plenty to offer, from the Harpa Concert Hall to the many restaurants and caf\u00e9s, not forgetting the geothermal baths, a key part of Icelandic culture."
+    }
+  ],
+  "tour_name": "Iceland's Laugavegur Trek",
+  "start_city": {
+    "latitude": 64.135796,
+    "city_name": "Reykjavik",
+    "longitude": -21.896657,
+    "location_id": 6079,
+    "country_code": "IS"
+  },
+  "tour_types": [
+    {
+      "type_id": 73,
+      "group_id": 11,
+      "type_name": "Hiking & Trekking",
+      "group_name": "Adventure Styles"
+    },
+    {
+      "type_id": 173,
+      "group_id": 12,
+      "type_name": "Camping",
+      "group_name": "Adventure Activities"
+    },
+    {
+      "type_id": 372,
+      "group_id": 1,
+      "type_name": "Group",
+      "group_name": "Group Type"
+    },
+    {
+      "type_id": 373,
+      "group_id": 2,
+      "type_name": "Fully Guided",
+      "group_name": "Guide Type"
+    },
+    {
+      "type_id": 379,
+      "group_id": 3,
+      "type_name": "Serious",
+      "group_name": "Physical rating type"
+    },
+    {
+      "type_id": 383,
+      "group_id": 11,
+      "type_name": "Explorer",
+      "group_name": "Adventure Styles"
+    },
+    {
+      "type_id": 403,
+      "group_id": 29,
+      "type_name": "Private Room",
+      "group_name": "Solo Travelers"
+    },
+    {
+      "type_id": 404,
+      "group_id": 29,
+      "type_name": "Shared Room",
+      "group_name": "Solo Travelers"
+    }
+  ],
+  "description": "Iceland is now firmly established as one of the most dramatic trekking destinations on the planet \u2013 the varied landscapes forged over eons by volcanic eruptions and gigantic glaciers. One of the most popular trails is known as the Laugavegur Trail, and this is the focus of our week. All meals are included while camping, and we start in the colourful Landmannalaugar mountains before heading to the dramatic Thorsmork region where we discover the craters from the 2010 eruption. Few trekking routes can match the striking vistas on offer here.\r\n\r\nIn addition, the early departures offer long days, up to 24 hours of daylight in July, while the late August and early September departures bring darkness and with that the chance to see the Northern Lights.",
+  "start_point": {},
+  "destinations": {
+    "cities": [
+      {
+        "latitude": 64.135796,
+        "city_name": "Reykjavik",
+        "longitude": -21.896657,
+        "location_id": 6079,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 63.532222,
+        "city_name": "Skogafoss",
+        "longitude": -19.511033,
+        "location_id": 20258,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.669229,
+        "city_name": "Vatnajokull National Park",
+        "longitude": -17.179903,
+        "location_id": 16245,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 63.702654,
+        "city_name": "Thorsmork Nature Reserve",
+        "longitude": -19.427149,
+        "location_id": 16228,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 63.630404,
+        "city_name": "Eyjafjallajokull",
+        "longitude": -19.606733,
+        "location_id": 16218,
+        "country_code": "IS"
+      }
+    ],
+    "countries": [
+      {
+        "location_id": 77,
+        "country_code": "IS",
+        "country_name": "Iceland",
+        "currency_code": "ISK",
+        "currency_name": "Iceland Krona",
+        "electricity_outlets": [
+          "C",
+          "E",
+          "F"
+        ]
+      }
+    ],
+    "natural_destinations": [
+      {
+        "type": "region",
+        "latitude": 64.09713912311825,
+        "longitude": -17.765290484547556,
+        "location_id": 1000061,
+        "country_code": "IS",
+        "natural_destination_name": "Iceland South Coast"
+      },
+      {
+        "type": "region",
+        "latitude": 64.19559821518635,
+        "longitude": -18.0903256878859,
+        "location_id": 1000062,
+        "country_code": "IS",
+        "natural_destination_name": "South Iceland"
+      },
+      {
+        "type": "region",
+        "location_id": 1000837,
+        "natural_destination_name": "Northern Lights"
+      },
+      {
+        "type": "region",
+        "location_id": 1001128,
+        "natural_destination_name": "Laugavegur"
+      }
+    ]
+  },
+  "reviews_count": 2,
+  "max_group_size": 16,
+  "guide_languages": [
+    1
+  ],
+  "departure_months": [
+    {
+      "year": 2024,
+      "month": 7
+    },
+    {
+      "year": 2024,
+      "month": 8
+    }
+  ],
+  "tour_length_days": 7,
+  "is_instant_confirmable": true,
+  "has_machine_translated_content": false,
+  "reviews": [],
+  "tour_url": "https://www.tourradar.com/t/62957"
+}

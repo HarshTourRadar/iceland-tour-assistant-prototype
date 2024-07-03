@@ -1,0 +1,666 @@
+{
+  "codes": [
+    "8170"
+  ],
+  "budget": "comfort",
+  "images": [
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/88570_5df8b615bd2fd.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/88570_5df8b615bd2fd.jpg",
+      "location_name": "Geysir"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/88570_0ce071f8.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/88570_0ce071f8.jpg",
+      "location_name": "\u00deingvellir National Park"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/tour/1500x800/88570_c9953db1.jpg",
+      "type": "image",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/tour/200x200/88570_c9953db1.jpg",
+      "location_name": "J\u00f6kuls\u00e1rl\u00f3n Glacier Lagoon, Iceland"
+    },
+    {
+      "url": "https://cdn.tourradar.com/s3/map/1500x800/88570_8357.png",
+      "type": "map",
+      "thumbnail_url": "https://cdn.tourradar.com/s3/map/200x200/88570_8357.png",
+      "location_name": "Iceland"
+    }
+  ],
+  "locale": "en_US",
+  "ratings": {
+    "food": 4.2,
+    "guide": 4.8,
+    "overall": 4.6,
+    "operator": 4.5,
+    "itinerary": 4.7,
+    "transport": 4.5,
+    "accommodation": 4.3
+  },
+  "tour_id": 88570,
+  "end_city": {
+    "latitude": 64.665668,
+    "city_name": "Reykholt",
+    "longitude": -21.287084,
+    "location_id": 18892,
+    "country_code": "IS"
+  },
+  "language": "en",
+  "operator": {
+    "id": 1853,
+    "name": "Arctic Adventures"
+  },
+  "services": {
+    "guide": [
+      {
+        "description": "<p>Guided tour in a minibus with WiFi.</p>",
+        "is_included": true
+      }
+    ],
+    "meals": [
+      {
+        "description": "<p><strong>Please note that food is NOT included on this tour, except breakfast at hotels and guesthouses.</strong><br /></p>",
+        "is_included": true,
+        "food_options": [
+          "jain",
+          "vegetarian",
+          "vegan",
+          "halal",
+          "kosher",
+          "meat"
+        ]
+      }
+    ],
+    "others": [
+      {
+        "description": "<p>Pick-up from\u00a0your hotel in Reykjav\u00edk</p><p>Visit to \u00deingvellir, Geysir, Gullfoss, Seljalandsfoss, Skogafoss, Reynisfjara, Skaftafell, Jokulsarlon Ice Glacier Lagoon, Hengifoss, Dettifoss, Lake M\u00fdvatn, Dimmuborgir, N\u00e1maskar\u00f0, Go\u00f0afoss, M\u00fdvatn Nature Baths (admission can be added), Deildartunguhver, Hraunfossar, Whale watching, Ice Cave (during winter if accessible), Glacier hike on Vatnaj\u00f6kul (April - Okt 11).</p>",
+        "is_included": true
+      },
+      {
+        "description": "<ul>  <li>Activities and services not mentioned above</li></ul>",
+        "is_included": false
+      }
+    ],
+    "flights": [
+      {
+        "description": "<ul>  <li>International flights</li></ul>",
+        "is_included": false
+      }
+    ],
+    "optional": [
+      {
+        "description": "<p><strong>Hiking boots</strong></p><p>+\u20ac28</p><p>If you wish to save luggage space or do not have a good pair of your own, choose the hiking boot rental. If you do choose to rent, please note that there is a 3h hike to a waterfall where the rental will not be available.\u00a0</p><p>Hiking shoes must be sturdy, have good ankle support and must have thick soles for walking on volcanic rock and enough space to put the crampons on for your glacier hikes. Timberland shoes will not be accepted.\u00a0</p><p><strong>Luggage storage</strong></p><p>+\u20ac28</p><p>Choose this option if you have more than one 20 kg suitcase (hard or soft-shell) and one day pack. It will be left behind at a secure storage area.</p><p><strong>Waterproof Pants</strong></p><p>+\u20ac28</p><p><strong>Waterproof Jacket</strong></p><p>+\u20ac28</p><p><strong>Entrance fee to M\u00fdvatn Nature Baths</strong></p><p>+\u20ac34</p><p>If you wish to enter and swim in the M\u00fdvatn Nature Baths please choose this option. Towels, swimsuits or bathrobes will not be provided but can be rented on the spot.</p>",
+        "is_included": false
+      }
+    ],
+    "insurance": [
+      {
+        "description": "<ul>  <li>Insurance</li></ul>",
+        "is_included": false
+      }
+    ],
+    "transport": [
+      {
+        "description": "<ul>  <li>Pick-up & drop off from Reykjav\u00edk</li>  <li>Minibus</li></ul>",
+        "is_included": true
+      }
+    ],
+    "accommodation": [
+      {
+        "description": "<p>Hotel room with private bathroom for 5 nights and breakfasts.<br /></p>",
+        "is_included": true,
+        "accommodations": [
+          {
+            "name": "Hotel Dyrh\u00f3laey",
+            "type": "hotel",
+            "address": "\u00dej\u00f3\u00f0vegur, Iceland"
+          },
+          {
+            "name": "Hotel Skaftafell",
+            "type": "hotel",
+            "address": "Skaftafelli 2 Freysnesi, 785 \u00d6r\u00e6fi, Iceland"
+          },
+          {
+            "name": "Hotel Rj\u00fakandi",
+            "type": "hotel",
+            "address": "Vegam\u00f3tum - Snaefellsnesvegur, 311 Borgarnes, Iceland"
+          }
+        ]
+      }
+    ]
+  },
+  "age_range": {
+    "strict": {
+      "max_age": 99,
+      "min_age": 8
+    }
+  },
+  "end_point": {
+    "time": "17:00-18:00"
+  },
+  "is_active": true,
+  "itinerary": [
+    {
+      "order": 0,
+      "title": "Day 1: Golden Circle & South Coast - Seljalandsfoss, Reynisfjara, Skogafoss",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 63.789159,
+          "city_name": "Kirkjubaejarklaustur",
+          "longitude": -18.038177,
+          "location_id": 13802,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 64.327751,
+          "city_name": "Gullfoss",
+          "longitude": -20.121333,
+          "location_id": 16224,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 64.310372,
+          "city_name": "Geysir",
+          "longitude": -20.302361,
+          "location_id": 37792,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 63.532222,
+          "city_name": "Skogafoss",
+          "longitude": -19.511033,
+          "location_id": 20258,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 63.405741,
+          "city_name": "Reynisfjara",
+          "longitude": -19.071616,
+          "location_id": 25150,
+          "country_code": "IS"
+        }
+      ],
+      "description": "<p>We will spend the first day of this round tour exploring the famous Golden Circle. The Golden Circle includes the UNESCO Heritage site Thingvellir National park, Geysir hot spring as well as the mighty Gullfoss waterfall. After visiting theses three top attractions we will make our way towards the South Coast of the island en route to our accommodation for the night. We will have the chance to visit both Seljalandsfoss and Sk\u00f3gafoss waterfalls as well as the magnificent Reynisfjara black sand beach before heading to our accommodation close to the village of Kirkjub\u00e6jarklaustri.</p>"
+    },
+    {
+      "order": 1,
+      "title": "Day 2: Vatnajokull & Jokulsarlon Glacier Lagoon",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.255893,
+          "city_name": "Hofn",
+          "longitude": -15.207653,
+          "location_id": 13803,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 64.070389,
+          "city_name": "Skaftafell",
+          "longitude": -16.974975,
+          "location_id": 12537,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 64.070309,
+          "city_name": "Jokulsarlon",
+          "longitude": -16.21154,
+          "location_id": 16225,
+          "country_code": "IS"
+        }
+      ],
+      "description": "<p>Glaciers are on today's agenda! As we keep on with our ring road adventure and move further South-East we will pass M\u00fdrdalsj\u00f6kull glacier and drive throughvast lava fields before reaching Skaftafell National Park which is part of Vatnaj\u00f6kull National Park where Europe's largest glacier lies. Once there we will start our glacier exploration, setting off for a glacier hike on one of Vatnaj\u00f6kuls outlet glaciers. After our hike we will be stopping at the popular J\u00f6kuls\u00e1rl\u00f3n Glacier Lagoon where you can explore the lagoon that is covered with floating ice bergs. Our accommodation for the night will be in H\u00f6fn \u00ed Hornafir\u00f0i.</p>\n<p><br></p>"
+    },
+    {
+      "order": 2,
+      "title": "Day 3: East Fjords - Djupivogur, Egilsstadir:",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 65.266781,
+          "city_name": "Egilsstadir",
+          "longitude": -14.395094,
+          "location_id": 13804,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 64.657366,
+          "city_name": "Djupivogur",
+          "longitude": -14.298534,
+          "location_id": 16248,
+          "country_code": "IS"
+        }
+      ],
+      "description": "<p>Today we will explore the East Fjords of Iceland. We continue threading our way along the coastline, driving some narrow roads around Hvalnes, a magnificent and remote peninsula, and the stretch around the \u00devott\u00e1rskri\u00f0ur landslides between L\u00f3ns and \u00c1lftafjar\u00f0ar.</p>\n<p>We will stop at Dj\u00fapivogur, a traditional small fishing village that is also home to a fine outdoor sculpture, Eggin \u00ed Gle\u00f0iv\u00edk (meaning The Eggs of Merry Bay).</p>\n<p><br></p>\n<p>We will finish the day by soaking in geothermal V\u00f6k Baths surrounded by the amazing scenery of Lake Urri\u00f0avatn, they are distinguished by their modern design and the only floating infinity pools in Iceland. Enjoy hot baths there is an optional extra, which you can do at your own cost, please make sure to book it as an extra during the booking process.</p>\n<p><br></p>\n<p>After the baths, we will jump in the car again and move on to Egilssta\u00f0ir, the largest town in East Iceland, where we will relax in a hotel for the night.</p>"
+    },
+    {
+      "order": 3,
+      "title": "Day 4: Lake M\u00fdvatn area;",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 65.68384,
+          "city_name": "Akureyri",
+          "longitude": -18.110619,
+          "location_id": 6080,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 65.58579,
+          "city_name": "Dimmuborgir",
+          "longitude": -16.91919,
+          "location_id": 42692,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 65.815144,
+          "city_name": "Dettifoss",
+          "longitude": -16.385656,
+          "location_id": 25737,
+          "country_code": "IS"
+        }
+      ],
+      "description": "<p>Heading to the northern part of the island we will pass the wilderness of M\u00f6\u00f0rudalur valley before making our first stop for the day at Dettifoss waterfall, Europe's most powerful waterfall. After some exploration of this beautiful phenomenon we will make our way to Lake M\u00fdvatn area where you will get the chance to experience the magnificent landscape around the lake and snap some photos of its surroundings. Among Lake M\u00fdvatns highlights are N\u00e1maskar\u00f0, Hverfjall crater and Dimmuborgir lava field.&nbsp;</p>\n<p><br></p>\n<p>The vast and dreamy crescent-shaped waterfall - Go\u00f0afoss, is the last stop of the day before we journey to Eyjafj\u00f6r\u00f0ur, an outstandingly beautiful fjord with high mountains.</p>\n<p><br></p>\n<p>Our accommodation for the night will be at a country hotel in Akureyri. You will also have a chance to explore the fishing town in the north. Your guide will help you find Northern Lights viewing areas near the hotel from November to March.</p>"
+    },
+    {
+      "order": 4,
+      "title": "Day 5: Whale Watching in North Iceland - Dalvik, Siglufjordur:",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 65.32624,
+          "city_name": "Laugarbakki",
+          "longitude": -20.89295,
+          "location_id": 43579,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 65.68384,
+          "city_name": "Akureyri",
+          "longitude": -18.110619,
+          "location_id": 6080,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 66.151125,
+          "city_name": "Siglufjordur",
+          "longitude": -18.911397,
+          "location_id": 22847,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 65.966562,
+          "city_name": "Dalvik",
+          "longitude": -18.533227,
+          "location_id": 16266,
+          "country_code": "IS"
+        }
+      ],
+      "description": "<p>In the morning, you will get a chance to explore Akureyri, the capital of the North, before we go for a 3 hour whale watching tour from Dalv\u00edk where whale sightings are quite common. The most common whales being spotted in that area, are humpback whales. It's also possible to upgrade (Apr-Oct) for a small fee to a 1.5-hour rhib boat tour, that can give the opportunity to approach them closer. After your whale watching adventure, we will make our way to the cosy village of Siglufj\u00f6r\u00f0ur and around the mountainous Tr\u00f6llaskagi peninsula before arriving at Laugarbakki where we spend our last night of this tour.</p>"
+    },
+    {
+      "order": 5,
+      "title": "Day 6: West Iceland - Borgarfj\u00f6r\u00f0ur",
+      "duration": 1,
+      "locations": [
+        {
+          "latitude": 64.665668,
+          "city_name": "Reykholt",
+          "longitude": -21.287084,
+          "location_id": 18892,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 64.702148,
+          "city_name": "Hraunfossar",
+          "longitude": -20.976626,
+          "location_id": 38389,
+          "country_code": "IS"
+        },
+        {
+          "latitude": 65.77416,
+          "city_name": "Borgarfj\u00f6r\u00f0ur",
+          "longitude": -23.2148,
+          "location_id": 42548,
+          "country_code": "IS"
+        }
+      ],
+      "description": "<p>On the 6th day of the tour we head to Borgarfj\u00f6r\u00f0ur in West Iceland, an area voted as one of the best destinations by Lonely Planet in 2016. Borgarfj\u00f6r\u00f0ur has a lot to show and we will visit some of the best natural and historical stops. Deildartunguhver hot spring is on our list as well as two waterfalls: Barnafoss (also known as the Children's waterfall) and Hraunfossar which emerges in low cascades straight from a lava field. Before ending the day with scenic views of Hvalfj\u00f6r\u00f0ur (Whale Fjord) we will also stop at Reykholt, a historic site that was once home to a famous Icelandic historian, lawyer, politician, author of some of the Icelandic Sagas, and poet Snorri Sturluson. We expect to arrive in the city around 5 \u2013 6 pm.</p>"
+    }
+  ],
+  "tour_name": "6 Day - Around Iceland Adventure",
+  "start_city": {
+    "latitude": 63.405741,
+    "city_name": "Reynisfjara",
+    "longitude": -19.071616,
+    "location_id": 25150,
+    "country_code": "IS"
+  },
+  "tour_types": [
+    {
+      "type_id": 9,
+      "group_id": 7,
+      "type_name": "Christmas & New Year",
+      "group_name": "Festival & Events"
+    },
+    {
+      "type_id": 14,
+      "group_id": 4,
+      "type_name": "Active",
+      "group_name": "Nature & Adventure"
+    },
+    {
+      "type_id": 164,
+      "group_id": 26,
+      "type_name": "Family",
+      "group_name": "Tour Demographics"
+    },
+    {
+      "type_id": 372,
+      "group_id": 1,
+      "type_name": "Group",
+      "group_name": "Group Type"
+    },
+    {
+      "type_id": 373,
+      "group_id": 2,
+      "type_name": "Fully Guided",
+      "group_name": "Guide Type"
+    },
+    {
+      "type_id": 377,
+      "group_id": 3,
+      "type_name": "Easy",
+      "group_name": "Physical rating type"
+    },
+    {
+      "type_id": 383,
+      "group_id": 11,
+      "type_name": "Explorer",
+      "group_name": "Adventure Styles"
+    },
+    {
+      "type_id": 403,
+      "group_id": 29,
+      "type_name": "Private Room",
+      "group_name": "Solo Travelers"
+    },
+    {
+      "type_id": 404,
+      "group_id": 29,
+      "type_name": "Shared Room",
+      "group_name": "Solo Travelers"
+    }
+  ],
+  "description": "A 6 day tour around the ring road, stopping at all of the highlights that Iceland has to offer",
+  "start_point": {
+    "time": "08:00"
+  },
+  "destinations": {
+    "cities": [
+      {
+        "latitude": 63.405741,
+        "city_name": "Reynisfjara",
+        "longitude": -19.071616,
+        "location_id": 25150,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 63.532222,
+        "city_name": "Skogafoss",
+        "longitude": -19.511033,
+        "location_id": 20258,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.310372,
+        "city_name": "Geysir",
+        "longitude": -20.302361,
+        "location_id": 37792,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.327751,
+        "city_name": "Gullfoss",
+        "longitude": -20.121333,
+        "location_id": 16224,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 63.789159,
+        "city_name": "Kirkjubaejarklaustur",
+        "longitude": -18.038177,
+        "location_id": 13802,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.070309,
+        "city_name": "Jokulsarlon",
+        "longitude": -16.21154,
+        "location_id": 16225,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.070389,
+        "city_name": "Skaftafell",
+        "longitude": -16.974975,
+        "location_id": 12537,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.255893,
+        "city_name": "Hofn",
+        "longitude": -15.207653,
+        "location_id": 13803,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.657366,
+        "city_name": "Djupivogur",
+        "longitude": -14.298534,
+        "location_id": 16248,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 65.266781,
+        "city_name": "Egilsstadir",
+        "longitude": -14.395094,
+        "location_id": 13804,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 65.815144,
+        "city_name": "Dettifoss",
+        "longitude": -16.385656,
+        "location_id": 25737,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 65.58579,
+        "city_name": "Dimmuborgir",
+        "longitude": -16.91919,
+        "location_id": 42692,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 65.68384,
+        "city_name": "Akureyri",
+        "longitude": -18.110619,
+        "location_id": 6080,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 65.966562,
+        "city_name": "Dalvik",
+        "longitude": -18.533227,
+        "location_id": 16266,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 66.151125,
+        "city_name": "Siglufjordur",
+        "longitude": -18.911397,
+        "location_id": 22847,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 65.32624,
+        "city_name": "Laugarbakki",
+        "longitude": -20.89295,
+        "location_id": 43579,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 65.77416,
+        "city_name": "Borgarfj\u00f6r\u00f0ur",
+        "longitude": -23.2148,
+        "location_id": 42548,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.702148,
+        "city_name": "Hraunfossar",
+        "longitude": -20.976626,
+        "location_id": 38389,
+        "country_code": "IS"
+      },
+      {
+        "latitude": 64.665668,
+        "city_name": "Reykholt",
+        "longitude": -21.287084,
+        "location_id": 18892,
+        "country_code": "IS"
+      }
+    ],
+    "countries": [
+      {
+        "location_id": 77,
+        "country_code": "IS",
+        "country_name": "Iceland",
+        "currency_code": "ISK",
+        "currency_name": "Iceland Krona",
+        "electricity_outlets": [
+          "C",
+          "E",
+          "F"
+        ]
+      }
+    ],
+    "natural_destinations": [
+      {
+        "type": "region",
+        "location_id": 1000418,
+        "natural_destination_name": "Iceland Ring Road"
+      }
+    ]
+  },
+  "reviews_count": 481,
+  "max_group_size": 19,
+  "guide_languages": [
+    1
+  ],
+  "departure_months": [
+    {
+      "year": 2024,
+      "month": 10
+    },
+    {
+      "year": 2024,
+      "month": 11
+    },
+    {
+      "year": 2024,
+      "month": 12
+    },
+    {
+      "year": 2024,
+      "month": 4
+    },
+    {
+      "year": 2024,
+      "month": 5
+    },
+    {
+      "year": 2024,
+      "month": 6
+    },
+    {
+      "year": 2024,
+      "month": 7
+    },
+    {
+      "year": 2024,
+      "month": 8
+    },
+    {
+      "year": 2024,
+      "month": 9
+    },
+    {
+      "year": 2025,
+      "month": 1
+    },
+    {
+      "year": 2025,
+      "month": 10
+    },
+    {
+      "year": 2025,
+      "month": 11
+    },
+    {
+      "year": 2025,
+      "month": 12
+    },
+    {
+      "year": 2025,
+      "month": 2
+    },
+    {
+      "year": 2025,
+      "month": 3
+    },
+    {
+      "year": 2025,
+      "month": 4
+    },
+    {
+      "year": 2025,
+      "month": 5
+    },
+    {
+      "year": 2025,
+      "month": 6
+    },
+    {
+      "year": 2025,
+      "month": 7
+    },
+    {
+      "year": 2025,
+      "month": 8
+    },
+    {
+      "year": 2025,
+      "month": 9
+    }
+  ],
+  "tour_length_days": 6,
+  "is_instant_confirmable": true,
+  "has_machine_translated_content": false,
+  "reviews": [
+    "The Tour was amazing we had so much fun an visited so many places!! Our Guide Hjalti was the best Guide we could dream off! We couldn\u2018t do the whale watching necause of the bad weather but he thought about a backup plan to enjoy the day at a museum. Really a beautiful experience that I absolutly can recommend! I even more fell in love with Iceland! Thank you Hjalti for making this Tour the best of our lifetime!",
+    "Adolf is an amazing guide. Couldn't have had a better time if I tried! Amazing country and I will be back!",
+    "Loved every second of the tour,gunnar the guide was excellent, extremely knowledgeable and helpful. And the group was just a good size to make friends.",
+    "My husband and I were on our honeymoon on this trip, and we had an absolutely amazing time! TourRadar did a great job with communicating prior to our trip and answering any questions we had prior to our trip. We were also able to communicate with the tour company via the platform, which was very helpful. We got to visit so many amazing sites all around Iceland and made some amazing memories. The itinerary was well-developed and also allowed for some downtime. Our tour guide, Siggie, from Arctic Adventures also did an incredible job keeping us informed and making sure we had everything we needed. We were able to learn a lot and felt very welcomed.",
+    "This tour was amazing. We were very fortunate to have clear skies for most of our trip, With breathtaking sunrises and sunsets. We even got to see the Northern Lights a couple of times. Our tour guide Sindri was wonderful, giving excellent local information around the whole island. Unfortunately the weather turned and we did not get to experience the whale watching tour, but the sites we did get to see more than made up for what we didn\u2019t get to see. I cannot wait to come back to Iceland it is a magical experience",
+    "The guided tour was really nice but also exhausting. We have seen a lot, even some things that were not on the plan, thanks to our guide Vjeran.",
+    "Overall very thorough cover of Iceland. Guide Vjeran very caring, considerate and humorous, doing his best in explaining and leading to each destination spot with good knowledge background. Well recommended.",
+    "Our tour guide was the greatest ever. He went out of his way to accommodate everyone. He knowledge of Iceland was phenomenal! It was the most interesting trip I have ever taken",
+    "Beautiful country. Great tour. Informative guide. Fun people."
+  ],
+  "tour_url": "https://www.tourradar.com/t/88570"
+}
